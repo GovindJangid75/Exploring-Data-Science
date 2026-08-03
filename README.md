@@ -684,8 +684,11 @@ Step 8: Full Project        →  complete documented end-to-end analysis
 |--------|--------|
 | Python Learning (all 9 sub-topics) | [Full Stack AI with Python — Udemy](https://www.udemy.com/course/full-stack-ai-with-python/) by Hitesh Choudhary & Piyush Garg |
 | SQL Learning | Supplementary practice (Hitesh Sir style) |
-| NumPy, Pandas, Matplotlib, Seaborn | Supplementary Data Science practice |
-| EDA Learning | Supplementary EDA project practice |
+| NumPy Learning | Official [NumPy Docs](https://numpy.org/doc/) + YouTube — [NumPy Full Course](https://www.youtube.com/watch?v=x7ULDYs4X84) |
+| Pandas Learning | Official [Pandas Docs](https://pandas.pydata.org/docs/) + YouTube tutorials |
+| Matplotlib Learning | Official [Matplotlib Docs](https://matplotlib.org/stable/index.html) + YouTube tutorials |
+| Seaborn Learning | Official [Seaborn Docs](https://seaborn.pydata.org/) + YouTube tutorials |
+| EDA Learning | Official documentation + YouTube videos + self practice |
 
 ### 🍵 The Chai Metaphor
 
