@@ -73,7 +73,7 @@ Is repo mein ye sab cover hota hai:
 │   ├── 📁 03_conditional/                 # 5 mini-projects using conditionals
 │   ├── 📁 04_loops/                       # for/while loop examples
 │   ├── 📁 05_functions/                   # 12 files on function concepts
-│   ├── 📁 06_chai_buisnes/                # Mini project using modules
+│   ├── 📁 06_chai_business/                # Mini project using modules
 │   ├── 📁 07_Generators_and_Decorators/   # 7 files on generators & decorators
 │   ├── 📁 08_Object_Programming/          # 8 files on OOP concepts
 │   └── 📁 09_File_Handling/               # 6 files on file I/O and exceptions
@@ -250,12 +250,12 @@ strong_chai = list(filter(lambda c: c != "kadak", chai_types))  # kadak hata do
 
 ### 06 - Chai Business Project
 
-**Location:** `06_chai_buisnes/`
+**Location:** `06_chai_business/`
 
 Ek **chhota sa modular project** hai jo Python ka module/package architecture demonstrate karta hai — bilkul waise jaise real-world Python projects hote hain.
 
 ```
-06_chai_buisnes/
+06_chai_business/
 ├── _main.py          # Entry point — yahan se program shuru hota hai
 ├── recipes/
 │   ├── ___init__.py  # Package initializer
@@ -818,7 +818,7 @@ Week 1-2: Python Fundamentals
 
 Week 3-4: Python Advanced
   ✅ 05_functions (all 12 files)
-  ✅ 06_chai_buisnes (module project)
+  ✅ 06_chai_business (module project)
   ✅ 07_Generators_and_Decorators
   ✅ 08_Object_Programming (OOP)
   ✅ 09_File_Handling

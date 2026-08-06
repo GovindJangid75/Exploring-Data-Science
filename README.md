@@ -13,7 +13,7 @@
 **A complete, structured Data Science learning journey — from Python fundamentals to full EDA projects.**
 *Python core via [Full Stack AI with Python (Udemy)](https://www.udemy.com/course/full-stack-ai-with-python/) | Data Science modules via official docs and YouTube* ☕
 
-> 📖 This is the **English version** of the README. For the Hinglish version, see [README.md](./README.md).
+> 📖 This is the **English version** of the README. For the Hinglish version, see [README_Hinglish.md](./README_Hinglish.md).
 
 </div>
 
@@ -75,7 +75,7 @@ The repo covers the **complete data science toolkit**:
 │   ├── 📁 03_conditional/                 # 5 mini-projects using conditionals
 │   ├── 📁 04_loops/                       # for/while loop examples
 │   ├── 📁 05_functions/                   # 12 files on function concepts
-│   ├── 📁 06_chai_buisnes/                # Mini project using modules
+│   ├── 📁 06_chai_business/                # Mini project using modules
 │   ├── 📁 07_Generators_and_Decorators/   # 7 files on generators and decorators
 │   ├── 📁 08_Object_Programming/          # 8 files on OOP concepts
 │   └── 📁 09_File_Handling/               # 6 files on file I/O and exceptions
@@ -221,7 +221,7 @@ def chai_order(order=None):
 A modular mini-project demonstrating Python's package architecture:
 
 ```
-06_chai_buisnes/
+06_chai_business/
 ├── _main.py          # Entry point
 ├── recipes/
 │   ├── ___init__.py  # Package initializer

@@ -1,0 +1,656 @@
+order_id,order_date,day,order_hour,city,chai_type,size,quantity,unit_price,discount_percent,total_amount,payment_method,customer_type,order_mode,weather,temperature_c,customer_rating,prep_time_min,sugar_level,milk_type,repeat_customer
+CHAI1001,2026-06-13,Saturday,8,Pune,Adrak Chai,Small,1,25,0,25.0,UPI,Student,Takeaway,Hot,39.1,3.0,5.1,No Sugar,Toned,No
+CHAI1002,2026-02-26,Thursday,11,Jaipur,Chocolate Chai,Medium,3,60,20,144.0,Cash,Office Worker,Takeaway,Rainy,19.6,4.0,5.2,No Sugar,Full Cream,No
+CHAI1003,2026-06-04,Thursday,20,Delhi,Lemon Tea,Large,2,50,15,85.0,Wallet,Local,Dine-in,Rainy,24.3,4.0,5.4,No Sugar,Regular,Yes
+CHAI1004,2026-03-16,Monday,10,Kota,Adrak Chai,Large,3,45,5,128.25,UPI,Tourist,Dine-in,Rainy,24.7,5.0,5.0,Less,Toned,Yes
+CHAI1005,2026-04-29,Wednesday,19,Pune,Kulhad Chai,Small,4,35,0,140.0,Cash,Student,Dine-in,Sunny,27.8,4.0,13.6,Normal,Toned,No
+CHAI1006,2026-04-12,Sunday,12,Indore,Chocolate Chai,Small,1,50,20,40.0,Cash,Local,Delivery,Cold,10.2,4.0,3.8,No Sugar,Regular,Yes
+CHAI1007,2026-06-10,Wednesday,11,Delhi,Elaichi Chai,Medium,1,40,10,36.0,UPI,Other,Delivery,Hot,43.7,1.0,9.5,Normal,Full Cream,Yes
+CHAI1008,2026-03-17,Tuesday,20,Indore,Kulhad Chai,Small,1,35,10,31.5,Wallet,Office Worker,Takeaway,Sunny,31.5,4.0,4.8,Normal,Toned,Yes
+CHAI1009,2026-06-03,Wednesday,21,Ahmedabad,Green Tea,Medium,1,50,0,50.0,Card,Tourist,Dine-in,Cloudy,26.2,5.0,10.3,Less,Toned,No
+CHAI1010,2026-05-21,Thursday,18,Kota,Elaichi Chai,Small,3,30,20,72.0,Wallet,Other,Takeaway,Cloudy,23.4,5.0,8.3,Extra,Regular,Yes
+CHAI1011,2026-02-27,Friday,10,Pune,Adrak Chai,Small,2,25,0,50.0,Cash,Student,Dine-in,Sunny,24.8,4.0,8.3,Normal,No Milk,Yes
+CHAI1012,2026-05-19,Tuesday,8,Udaipur,Elaichi Chai,Medium,3,40,0,120.0,UPI,Local,Takeaway,Cloudy,21.1,4.0,8.6,No Sugar,Regular,Yes
+CHAI1013,2026-04-14,Tuesday,11,Pune,Green Tea,Large,1,60,15,51.0,UPI,Local,Dine-in,Cloudy,25.1,3.0,,No Sugar,Regular,Yes
+CHAI1014,2026-01-24,Saturday,13,Pune,Kesar Chai,Small,2,45,10,81.0,Card,Student,Dine-in,Sunny,27.2,4.0,7.5,Extra,Toned,Yes
+CHAI1015,2026-03-17,Tuesday,15,Jaipur,Kesar Chai,Large,2,65,0,130.0,Cash,Student,Dine-in,Cold,17.2,2.0,8.3,Less,Regular,Yes
+CHAI1016,2026-06-22,Monday,17,Pune,Kesar Chai,Medium,4,55,0,220.0,Cash,Student,Takeaway,Cold,13.8,5.0,6.9,Normal,Toned,No
+CHAI1017,2026-04-12,Sunday,16,Ahmedabad,Elaichi Chai,Medium,1,40,0,40.0,Card,Student,Dine-in,Hot,44.0,4.0,5.4,Normal,Regular,Yes
+CHAI1018,2026-04-05,Sunday,11,Indore,Lemon Tea,Small,3,30,0,90.0,Cash,Other,Dine-in,Hot,43.2,5.0,6.8,No Sugar,Toned,No
+CHAI1019,2026-03-14,Saturday,8,Indore,Kesar Chai,Medium,1,55,10,49.5,UPI,Tourist,Delivery,Sunny,31.6,2.0,6.0,Less,,Yes
+CHAI1020,2026-04-24,Friday,13,Mumbai,Kulhad Chai,Medium,1,45,0,45.0,Cash,Tourist,Takeaway,Cloudy,21.4,5.0,10.2,No Sugar,Full Cream,Yes
+CHAI1021,2026-06-24,Wednesday,20,Kota,Kesar Chai,Medium,1,55,10,49.5,Wallet,Office Worker,Delivery,Cloudy,21.8,3.0,6.7,Less,Full Cream,No
+CHAI1022,2026-06-21,Sunday,10,Delhi,Kesar Chai,Small,3,45,0,135.0,UPI,Student,Delivery,Cloudy,29.0,4.0,11.6,Less,Toned,Yes
+CHAI1023,2026-06-18,Thursday,13,Delhi,Kesar Chai,Medium,1,55,10,49.5,Wallet,Tourist,Dine-in,Hot,40.2,4.0,3.2,Normal,Toned,No
+CHAI1024,2026-01-10,Saturday,10,Ahmedabad,Adrak Chai,Medium,1,35,5,33.25,UPI,Other,Dine-in,Hot,35.1,1.0,11.3,Less,Full Cream,No
+CHAI1025,2026-01-18,Sunday,12,Delhi,Green Tea,Medium,2,50,0,100.0,Cash,Tourist,Takeaway,Cold,12.0,3.0,7.5,Extra,Toned,No
+CHAI1026,2026-04-14,Tuesday,14,Ahmedabad,Masala Chai,Small,1,25,20,20.0,UPI,Local,Takeaway,Hot,41.5,5.0,8.9,Normal,Full Cream,Yes
+CHAI1027,2026-03-02,Monday,14,Jaipur,Lemon Tea,Small,1,30,5,28.5,UPI,Local,Takeaway,Sunny,,3.0,9.3,Extra,No Milk,Yes
+CHAI1028,2026-02-07,Saturday,14,Delhi,Masala Chai,Large,3,45,0,135.0,Cash,Office Worker,Dine-in,Hot,32.6,5.0,8.5,Extra,Full Cream,No
+CHAI1029,2026-06-06,Saturday,20,Mumbai,Kulhad Chai,Large,2,55,10,99.0,Cash,Local,Takeaway,Cloudy,27.0,4.0,9.3,Normal,No Milk,Yes
+CHAI1030,2026-03-15,Sunday,18,Delhi,Kesar Chai,Small,1,45,0,45.0,UPI,Office Worker,Dine-in,Cloudy,22.4,4.0,7.2,No Sugar,Toned,No
+CHAI1031,2026-04-10,Friday,20,Kota,Masala Chai,Large,2,45,10,81.0,UPI,Tourist,Dine-in,Cold,16.9,4.0,10.3,Less,No Milk,Yes
+CHAI1032,2026-03-11,Wednesday,15,Kota,Kulhad Chai,Medium,1,45,0,45.0,Cash,Local,Delivery,Hot,32.3,4.0,3.2,Extra,Toned,No
+CHAI1033,2026-02-16,Monday,11,Udaipur,Masala Chai,Small,1,25,0,25.0,UPI,Local,Dine-in,Cold,16.3,5.0,3.5,Normal,Toned,Yes
+CHAI1034,2026-06-16,Tuesday,14,Pune,Masala Chai,Medium,4,35,0,140.0,Card,Other,Dine-in,Cloudy,27.4,4.0,11.4,Normal,Toned,Yes
+CHAI1035,2026-02-11,Wednesday,8,Indore,Lemon Tea,Small,1,30,10,27.0,Cash,Local,Dine-in,Cloudy,26.5,4.0,9.3,Normal,Regular,Yes
+CHAI1036,2026-03-30,Monday,13,Ahmedabad,Kulhad Chai,Medium,1,45,5,42.75,UPI,Local,Delivery,Sunny,35.5,5.0,9.4,Extra,Toned,No
+CHAI1037,2026-06-07,Sunday,11,Indore,Chocolate Chai,Medium,3,60,0,180.0,UPI,Office Worker,Delivery,Sunny,34.6,4.0,9.9,Extra,Full Cream,Yes
+CHAI1038,2026-05-07,Thursday,15,Indore,Green Tea,Small,1,40,15,34.0,UPI,Other,Takeaway,Rainy,18.1,3.0,9.5,Extra,Toned,No
+CHAI1039,2026-06-15,Monday,12,Indore,Chocolate Chai,Medium,1,60,0,60.0,UPI,Office Worker,Dine-in,Hot,37.7,4.0,9.7,Normal,Full Cream,No
+CHAI1040,2026-03-11,Wednesday,10,Pune,Lemon Tea,Small,1,30,0,30.0,UPI,Other,Delivery,Cloudy,22.4,5.0,11.8,Normal,Regular,Yes
+CHAI1041,2026-03-17,Tuesday,17,Mumbai,Kesar Chai,Medium,1,55,0,55.0,UPI,Student,Takeaway,Cloudy,29.6,5.0,8.2,Extra,No Milk,No
+CHAI1042,2026-03-29,Sunday,16,Udaipur,Elaichi Chai,Large,1,50,0,50.0,UPI,Student,Dine-in,Sunny,31.6,3.0,8.1,Normal,Regular,Yes
+CHAI1043,2026-01-31,Saturday,11,Pune,Kulhad Chai,Medium,3,45,20,108.0,Cash,Local,Takeaway,Cold,16.6,4.0,10.0,No Sugar,Toned,Yes
+CHAI1044,2026-03-09,Monday,14,Delhi,Adrak Chai,Small,1,25,0,25.0,upi,Local,Takeaway,Hot,35.5,5.0,9.3,Extra,Regular,Yes
+CHAI1045,2026-03-09,Monday,19,Mumbai,Kesar Chai,Medium,2,55,10,99.0,Card,Office Worker,Dine-in,Cloudy,23.4,4.0,6.3,No Sugar,No Milk,No
+CHAI1046,2026-06-29,Monday,18,Udaipur,Kulhad Chai,Large,2,55,0,110.0,UPI,Other,Dine-in,Cold,11.2,3.0,12.4,No Sugar,Full Cream,Yes
+CHAI1047,2026-02-14,Saturday,8,Indore,Chocolate Chai,Medium,1,60,0,60.0,UPI,Other,Takeaway,Cold,12.7,4.0,3.9,Less,Full Cream,No
+CHAI1048,2026-06-27,Saturday,19,Jaipur,Chocolate Chai,Small,4,50,0,200.0,UPI,Tourist,Dine-in,Sunny,28.9,5.0,11.0,Extra,No Milk,Yes
+CHAI1049,2026-02-18,Wednesday,21,Udaipur,Green Tea,Medium,2,50,15,85.0,Cash,Office Worker,Dine-in,Cloudy,23.2,4.0,4.0,Less,Toned,No
+CHAI1050,2026-05-22,Friday,14,Delhi,Masala Chai,Medium,1,35,0,35.0,UPI,Student,Takeaway,Cloudy,30.3,5.0,6.7,Extra,No Milk,Yes
+CHAI1051,2026-04-27,Monday,12,Mumbai,Elaichi Chai,Medium,4,40,0,160.0,Card,Tourist,Takeaway,Cold,17.3,5.0,7.6,Normal,No Milk,Yes
+CHAI1052,2026-04-25,Saturday,16,Kota,Chocolate Chai,Small,2,50,10,90.0,UPI,Tourist,Delivery,Cloudy,,4.0,6.6,Extra,No Milk,No
+CHAI1053,2026-06-19,Friday,7,Ahmedabad,Elaichi Chai,Medium,1,40,0,40.0,Card,Local,Dine-in,Cold,15.2,5.0,4.4,Extra,Full Cream,No
+CHAI1054,2026-06-09,Tuesday,16,Kota,Kulhad Chai,Medium,3,45,5,128.25,Wallet,Local,Delivery,Sunny,24.8,5.0,13.4,No Sugar,No Milk,Yes
+CHAI1055,2026-06-12,Friday,13,Jaipur,Adrak Chai,Medium,2,35,0,70.0,UPI,Student,Dine-in,Rainy,19.5,4.0,10.8,Less,Toned,Yes
+CHAI1056,2026-06-06,Saturday,21,Mumbai,Kulhad Chai,Medium,1,45,15,38.25,UPI,Tourist,Takeaway,Sunny,33.7,5.0,4.4,Extra,Full Cream,No
+CHAI1057,2026-06-13,Saturday,10,Indore,Kulhad Chai,Medium,1,45,0,45.0,UPI,Local,Delivery,Sunny,28.6,4.0,9.3,No Sugar,No Milk,No
+CHAI1058,2026-01-03,Saturday,10,Indore,Masala Chai,Large,2,45,5,85.5,Cash,Office Worker,Takeaway,Rainy,24.4,5.0,10.2,Less,Regular,Yes
+CHAI1059,2026-03-21,Saturday,9,Mumbai,Chocolate Chai,Small,1,50,10,45.0,UPI,Tourist,Dine-in,Cold,10.0,5.0,6.3,Normal,Toned,No
+CHAI1060,2026-05-04,Monday,20,Delhi,Lemon Tea,Medium,1,40,5,38.0,UPI,Student,Dine-in,Cloudy,27.4,4.0,10.6,Normal,Regular,No
+CHAI1061,2026-01-04,Sunday,14,Indore,Lemon Tea,Medium,1,40,15,34.0,Cash,Tourist,Dine-in,Cloudy,20.3,4.0,11.2,Less,Regular,No
+CHAI1062,2026-06-29,Monday,8,Jaipur,Lemon Tea,Medium,1,40,0,40.0,Card,Tourist,Delivery,Sunny,26.8,4.0,6.3,Extra,Toned,No
+CHAI1063,2026-06-17,Wednesday,10,Indore,Adrak Chai,Large,2,45,0,90.0,UPI,Tourist,Dine-in,Cold,16.6,5.0,8.6,Normal,Regular,No
+CHAI1064,2026-03-12,Thursday,7,Udaipur,Kesar Chai,Large,4,65,0,260.0,UPI,Office Worker,Takeaway,Hot,32.6,5.0,12.2,Less,Regular,Yes
+CHAI1065,2026-05-31,Sunday,9,Mumbai,Kesar Chai,Large,1,65,10,58.5,Cash,Other,Dine-in,Cloudy,25.9,3.0,10.8,Less,Regular,No
+CHAI1066,2026-03-02,Monday,14,Mumbai,Green Tea,Small,1,40,0,40.0,Cash,Other,Dine-in,Sunny,29.4,4.0,7.1,Less,Regular,No
+CHAI1067,2026-04-28,Tuesday,8,Kota,Masala Chai,Small,1,25,0,25.0,UPI,Student,Takeaway,Cold,17.0,3.0,4.1,Normal,No Milk,No
+CHAI1068,2026-04-27,Monday,13,Pune,Kulhad Chai,Small,2,35,0,70.0,UPI,Office Worker,Dine-in,Cold,12.2,4.0,9.7,Normal,Toned,No
+CHAI1069,2026-01-18,Sunday,7,Delhi,Adrak Chai,Large,1,45,0,45.0,Cash,Tourist,Takeaway,Hot,39.0,4.0,4.1,Normal,No Milk,Yes
+CHAI1070,2026-03-15,Sunday,12,Pune,Lemon Tea,Medium,2,40,0,80.0,UPI,Local,Dine-in,Sunny,34.1,5.0,8.9,Extra,,No
+CHAI1071,2026-01-08,Thursday,17,Ahmedabad,Elaichi Chai,Small,2,30,0,60.0,UPI,Office Worker,Delivery,Hot,36.8,5.0,4.0,Less,No Milk,No
+CHAI1072,2026-04-27,Monday,9,Ahmedabad,Green Tea,Small,1,40,5,38.0,Cash,Other,Takeaway,Sunny,25.9,5.0,5.4,Extra,No Milk,No
+CHAI1073,2026-04-17,Friday,14,Ahmedabad,Lemon Tea,Small,2,30,0,60.0,UPI,Tourist,Takeaway,Hot,38.3,,12.6,No Sugar,Regular,Yes
+CHAI1074,2026-03-19,Thursday,9,Indore,Kesar Chai,Medium,2,55,0,110.0,UPI,Student,Takeaway,Cold,9.3,4.0,8.7,Normal,Regular,No
+CHAI1075,2026-01-11,Sunday,11,Ahmedabad,Kulhad Chai,Small,4,35,0,140.0,cash,Other,Dine-in,Cold,9.2,4.0,12.3,Extra,Full Cream,Yes
+CHAI1076,2026-04-22,Wednesday,12,Delhi,Adrak Chai,Small,2,25,0,50.0,UPI,Tourist,Takeaway,Cloudy,28.6,5.0,8.5,Less,Full Cream,No
+CHAI1077,2026-06-15,Monday,9,Pune,Elaichi Chai,Small,1,30,5,28.5,UPI,Office Worker,Takeaway,Sunny,35.4,4.0,8.1,Extra,Full Cream,No
+CHAI1078,2026-02-08,Sunday,8,Indore,Chocolate Chai,Small,1,50,0,50.0,Cash,Other,Dine-in,Hot,35.7,2.0,10.5,No Sugar,Regular,No
+CHAI1079,2026-04-29,Wednesday,14,Pune,Masala Chai,Medium,3,35,15,89.25,UPI,Local,Takeaway,Sunny,25.2,4.0,10.8,Less,Regular,Yes
+CHAI1080,2026-04-23,Thursday,17,Ahmedabad,Chocolate Chai,Medium,2,60,10,108.0,UPI,Tourist,Dine-in,Rainy,24.0,5.0,4.3,No Sugar,No Milk,No
+CHAI1081,2026-03-06,Friday,9,Mumbai,Elaichi Chai,Small,2,30,15,51.0,Card,Tourist,Delivery,Cold,14.0,4.0,7.1,Normal,Toned,Yes
+CHAI1082,2026-06-15,Monday,10,Indore,Kulhad Chai,Medium,1,45,0,45.0,UPI,Office Worker,Dine-in,Cold,10.3,,10.6,No Sugar,Regular,No
+CHAI1083,2026-06-08,Monday,18,Mumbai,Elaichi Chai,Medium,1,40,0,40.0,Card,Other,Takeaway,Cloudy,24.8,5.0,5.1,Extra,Full Cream,No
+CHAI1084,2026-03-01,Sunday,14,Udaipur,Kesar Chai,Small,3,45,0,135.0,Card,Office Worker,Dine-in,Hot,37.5,4.0,9.1,Less,Toned,Yes
+CHAI1085,2026-03-06,Friday,8,Delhi,Masala Chai,Medium,3,35,0,105.0,Cash,Other,Delivery,Rainy,25.6,5.0,5.7,Extra,Regular,Yes
+CHAI1086,2026-04-26,Sunday,12,Kota,Green Tea,Large,1,60,0,60.0,UPI,Office Worker,Dine-in,Sunny,26.7,3.0,9.4,Normal,Toned,Yes
+CHAI1087,2026-01-10,Saturday,21,Mumbai,Lemon Tea,Large,1,50,0,50.0,Cash,Local,Takeaway,Sunny,25.0,5.0,7.9,Extra,Regular,No
+CHAI1088,2026-03-02,Monday,17,Udaipur,Lemon Tea,Small,1,30,0,30.0,UPI,Local,Takeaway,Sunny,30.2,3.0,6.9,Normal,Toned,No
+CHAI1089,2026-02-17,Tuesday,12,Jaipur,Adrak Chai,Medium,1,35,0,35.0,UPI,Local,Dine-in,Cold,10.5,5.0,6.1,No Sugar,Full Cream,Yes
+CHAI1090,2026-01-12,Monday,17,Mumbai,Green Tea,Medium,3,50,0,150.0,Card,Local,Delivery,Cold,9.8,5.0,12.9,No Sugar,Full Cream,Yes
+CHAI1091,2026-01-12,Monday,19,Indore,Kesar Chai,Large,1,65,0,65.0,UPI,Other,Takeaway,Sunny,31.8,5.0,3.4,Normal,Full Cream,Yes
+CHAI1092,2026-04-05,Sunday,12,Kota,Kulhad Chai,Large,2,55,0,110.0,UPI,Office Worker,Takeaway,Cold,17.2,5.0,10.2,No Sugar,No Milk,Yes
+CHAI1093,2026-05-20,Wednesday,18,Indore,Lemon Tea,Small,1,30,0,30.0,UPI,Other,Takeaway,Cloudy,24.9,5.0,11.2,Extra,Full Cream,Yes
+CHAI1094,2026-01-20,Tuesday,7,Mumbai,Kulhad Chai,Medium,3,45,0,135.0,Wallet,Office Worker,Delivery,Cold,9.3,5.0,7.7,No Sugar,Toned,No
+CHAI1095,2026-04-05,Sunday,10,Mumbai,Green Tea,Medium,1,50,0,50.0,Cash,Local,Dine-in,Rainy,27.6,3.0,7.7,No Sugar,Full Cream,No
+CHAI1096,2026-06-30,Tuesday,9,Udaipur,Chocolate Chai,Small,2,50,0,100.0,UPI,Office Worker,Delivery,Cold,17.0,3.0,9.8,Normal,Full Cream,Yes
+CHAI1097,2026-05-21,Thursday,19,Mumbai,Lemon Tea,Large,3,50,10,135.0,Cash,Other,Dine-in,Cloudy,21.5,2.0,9.4,Normal,No Milk,Yes
+CHAI1098,2026-06-06,Saturday,9,Udaipur,Adrak Chai,Small,1,25,5,23.75,Cash,Local,Delivery,Sunny,35.7,4.0,9.1,Normal,Toned,Yes
+CHAI1099,2026-02-03,Tuesday,21,Delhi,Kulhad Chai,Medium,3,45,0,135.0,UPI,Tourist,Dine-in,Rainy,25.1,5.0,12.5,No Sugar,Full Cream,Yes
+CHAI1100,2026-06-12,Friday,9,Delhi,Lemon Tea,Small,1,30,5,28.5,UPI,Office Worker,Takeaway,Hot,34.1,5.0,6.0,No Sugar,Regular,Yes
+CHAI1101,2026-01-12,Monday,11,Kota,Lemon Tea,Medium,2,40,0,80.0,Cash,Student,Takeaway,Hot,39.7,4.0,11.0,Extra,Full Cream,No
+CHAI1102,2026-01-19,Monday,18,Udaipur,Masala Chai,Small,1,25,0,25.0,UPI,Other,Dine-in,Rainy,27.9,4.0,9.8,No Sugar,Full Cream,Yes
+CHAI1103,2026-04-30,Thursday,10,Delhi,Adrak Chai,Small,1,25,15,21.25,UPI,Local,Delivery,Cold,17.6,5.0,11.4,Normal,Toned,Yes
+CHAI1104,2026-05-08,Friday,10,Jaipur,Chocolate Chai,Medium,1,60,0,60.0,UPI,Local,Takeaway,Cloudy,26.4,4.0,8.4,Extra,Full Cream,Yes
+CHAI1105,2026-01-28,Wednesday,16,Ahmedabad,Kulhad Chai,Small,1,35,0,35.0,Cash,Tourist,Dine-in,Sunny,30.7,4.0,6.5,Extra,Full Cream,Yes
+CHAI1106,2026-02-02,Monday,16,Ahmedabad,Adrak Chai,Medium,3,35,0,105.0,Cash,Tourist,Takeaway,Cloudy,25.6,2.0,5.6,Normal,No Milk,No
+CHAI1107,2026-02-08,Sunday,16,Mumbai,Elaichi Chai,Small,2,30,10,54.0,UPI,Other,Takeaway,Rainy,21.4,4.0,10.1,Normal,No Milk,Yes
+CHAI1108,2026-04-05,Sunday,17,Indore,Green Tea,Medium,5,50,10,225.0,Cash,Student,Takeaway,Rainy,25.8,4.0,12.3,Extra,Toned,No
+CHAI1109,2026-02-07,Saturday,13,Delhi,Kesar Chai,Small,4,45,0,180.0,UPI,Local,Dine-in,Cloudy,27.6,5.0,13.4,No Sugar,Toned,Yes
+CHAI1110,2026-05-24,Sunday,12,Kota,Green Tea,Large,1,60,5,57.0,UPI,Office Worker,Takeaway,Hot,38.6,5.0,9.1,Normal,No Milk,Yes
+CHAI1111,2026-03-05,Thursday,12,Indore,Lemon Tea,Medium,1,40,0,40.0,Cash,Office Worker,Takeaway,Cold,12.8,5.0,9.5,Normal,Regular,No
+CHAI1112,2026-04-12,Sunday,17,Indore,Green Tea,Large,3,60,0,180.0,UPI,Student,Dine-in,Cold,10.6,4.0,9.2,Normal,Toned,Yes
+CHAI1113,2026-06-07,Sunday,18,Pune,Kesar Chai,Small,2,45,5,85.5,Cash,Student,Dine-in,Rainy,22.7,3.0,12.4,Less,No Milk,No
+CHAI1114,2026-05-03,Sunday,15,Indore,Kesar Chai,Medium,1,55,10,49.5,Cash,Student,Takeaway,Cloudy,28.1,2.0,11.3,Extra,Toned,Yes
+CHAI1115,2026-04-12,Sunday,8,Indore,Chocolate Chai,Small,2,50,0,100.0,Card,Student,Dine-in,Hot,43.1,4.0,9.5,Extra,Toned,No
+CHAI1116,2026-03-11,Wednesday,19,Udaipur,Kesar Chai,Large,1,65,5,61.75,Cash,Office Worker,Dine-in,Rainy,21.0,3.0,8.5,Extra,No Milk,No
+CHAI1117,2026-01-23,Friday,10,Mumbai,Kulhad Chai,Medium,1,45,0,45.0,UPI,Office Worker,Dine-in,Cold,12.5,4.0,8.2,No Sugar,Full Cream,No
+CHAI1118,2026-06-27,Saturday,18,Indore,Kesar Chai,Small,1,45,15,38.25,UPI,Other,Delivery,Rainy,19.2,4.0,8.5,Less,Toned,No
+CHAI1119,2026-02-09,Monday,19,Kota,Chocolate Chai,Medium,2,60,10,108.0,Cash,Local,Takeaway,Cloudy,22.7,5.0,4.4,Extra,Full Cream,Yes
+CHAI1120,2026-05-25,Monday,14,Pune,Adrak Chai,Small,2,25,0,50.0,Cash,Office Worker,Dine-in,Hot,33.4,4.0,4.5,Extra,Regular,No
+CHAI1121,2026-02-03,Tuesday,11,Udaipur,Kulhad Chai,Medium,1,45,10,40.5,Cash,Tourist,Takeaway,Cold,16.2,4.0,3.4,Normal,Regular,Yes
+CHAI1122,2026-01-18,Sunday,14,Mumbai,Chocolate Chai,Small,1,50,15,42.5,Cash,Local,Dine-in,Cold,16.7,4.0,9.1,Less,Full Cream,Yes
+CHAI1123,2026-02-15,Sunday,17,Pune,Kulhad Chai,Medium,2,45,0,90.0,Card,Student,Delivery,Cold,15.2,4.0,5.8,Extra,Full Cream,Yes
+CHAI1124,2026-03-12,Thursday,10,Delhi,Kesar Chai,Large,2,65,0,130.0,UPI,Local,Takeaway,Sunny,26.5,2.0,9.1,No Sugar,Toned,Yes
+CHAI1125,2026-04-13,Monday,12,Jaipur,Chocolate Chai,Small,1,50,10,45.0,UPI,Tourist,Dine-in,Hot,38.9,5.0,5.1,Less,Toned,No
+CHAI1126,2026-03-18,Wednesday,12,Mumbai,Lemon Tea,Small,4,30,5,114.0,Cash,Local,Takeaway,Sunny,35.3,5.0,8.0,Extra,No Milk,Yes
+CHAI1127,2026-03-18,Wednesday,19,Pune,Kulhad Chai,Small,2,35,0,70.0,Card,Tourist,Delivery,Cloudy,25.1,4.0,7.4,Less,No Milk,Yes
+CHAI1128,2026-03-07,Saturday,7,Udaipur,Kesar Chai,Small,1,45,5,42.75,Card,Student,Takeaway,Cloudy,23.0,4.0,10.9,Less,Toned,No
+CHAI1129,2026-02-23,Monday,21,Pune,Green Tea,Small,3,40,5,114.0,Card,Student,Takeaway,Cold,10.4,4.0,12.6,Normal,Full Cream,No
+CHAI1130,2026-04-30,Thursday,21,Udaipur,Green Tea,Small,1,40,0,40.0,UPI,Local,Takeaway,Rainy,20.0,2.0,10.8,Less,Regular,No
+CHAI1131,2026-05-22,Friday,11,Pune,Kulhad Chai,Small,1,35,0,35.0,UPI,Office Worker,Takeaway,Rainy,25.6,5.0,9.7,Extra,Toned,No
+CHAI1132,2026-02-13,Friday,19,Jaipur,Elaichi Chai,Medium,2,40,0,80.0,Cash,Student,Delivery,Sunny,24.1,,4.3,Less,Regular,Yes
+CHAI1133,2026-05-10,Sunday,13,Udaipur,Chocolate Chai,Medium,2,60,0,120.0,Cash,Student,Dine-in,Hot,32.1,4.0,12.5,No Sugar,No Milk,Yes
+CHAI1134,2026-01-28,Wednesday,12,Indore,Adrak Chai,Medium,1,35,0,35.0,Card,Tourist,Takeaway,Sunny,35.5,4.0,9.3,Normal,Regular,Yes
+CHAI1135,2026-01-24,Saturday,17,Jaipur,Kulhad Chai,Medium,2,45,0,90.0,Cash,Office Worker,Dine-in,Cold,15.8,5.0,4.6,No Sugar,Toned,Yes
+CHAI1136,2026-06-27,Saturday,21,Indore,Chocolate Chai,Small,4,50,0,200.0,Card,Other,Takeaway,Cloudy,29.4,4.0,6.4,Extra,Regular,No
+CHAI1137,2026-02-11,Wednesday,15,Ahmedabad,Kesar Chai,Medium,3,55,0,165.0,UPI,Office Worker,Takeaway,Sunny,32.9,3.0,6.5,No Sugar,Full Cream,No
+CHAI1138,2026-03-25,Wednesday,13,Udaipur,Masala Chai,Medium,3,35,5,99.75,UPI,Tourist,Takeaway,Cold,9.9,4.0,11.3,Normal,,Yes
+CHAI1139,2026-01-22,Thursday,7,Mumbai,Lemon Tea,Small,2,30,0,60.0,Cash,Tourist,Dine-in,Sunny,35.3,5.0,4.6,No Sugar,Toned,No
+CHAI1140,2026-04-25,Saturday,11,Delhi,Kulhad Chai,Small,1,35,10,31.5,Cash,Tourist,Delivery,Sunny,29.0,5.0,8.0,Less,Toned,No
+CHAI1141,2026-02-13,Friday,14,Mumbai,Elaichi Chai,Small,1,30,0,30.0,UPI,Local,Dine-in,Rainy,25.8,5.0,9.5,Extra,Toned,No
+CHAI1142,2026-01-28,Wednesday,14,Ahmedabad,Elaichi Chai,Small,4,30,10,108.0,Card,Local,Takeaway,Rainy,21.3,5.0,13.9,Less,Full Cream,No
+CHAI1143,2026-06-04,Thursday,16,Kota,Kesar Chai,Medium,1,55,0,55.0,Wallet,Tourist,Takeaway,Cold,15.8,4.0,10.1,Normal,Regular,Yes
+CHAI1144,2026-06-01,Monday,20,Udaipur,Elaichi Chai,Medium,2,40,10,72.0,Card,Office Worker,Takeaway,Rainy,24.9,5.0,7.4,Extra,Toned,No
+CHAI1145,2026-03-03,Tuesday,15,Kota,Lemon Tea,Medium,2,40,15,68.0,UPI,Other,Takeaway,Cold,13.1,5.0,8.6,Normal,Regular,Yes
+CHAI1146,2026-03-05,Thursday,8,Kota,Green Tea,Small,2,40,0,80.0,Wallet,Tourist,Delivery,Cold,8.1,4.0,8.4,Less,No Milk,No
+CHAI1147,2026-04-11,Saturday,13,Mumbai,Chocolate Chai,Medium,2,60,0,120.0,UPI,Student,Takeaway,Rainy,27.2,5.0,10.3,Normal,Full Cream,No
+CHAI1148,2026-04-27,Monday,7,Delhi,Kesar Chai,Medium,1,55,0,55.0,UPI,Local,Dine-in,Rainy,26.1,5.0,8.8,Less,Toned,Yes
+CHAI1149,2026-05-22,Friday,17,Udaipur,Elaichi Chai,Small,1,30,0,30.0,UPI,Local,Takeaway,Cloudy,27.2,5.0,10.9,Extra,No Milk,No
+CHAI1150,2026-01-02,Friday,10,Delhi,Kesar Chai,Small,2,45,0,90.0,Cash,Other,Dine-in,Rainy,22.6,5.0,8.4,Normal,No Milk,No
+CHAI1151,2026-05-31,Sunday,8,Mumbai,Adrak Chai,Small,3,25,0,75.0,Card,Tourist,Delivery,Hot,40.1,4.0,5.5,Normal,Toned,No
+CHAI1152,2026-04-18,Saturday,11,Udaipur,Elaichi Chai,Medium,1,40,0,40.0,Cash,Office Worker,Takeaway,Cold,9.4,4.0,3.5,Normal,Regular,No
+CHAI1153,2026-02-04,Wednesday,14,Udaipur,Kesar Chai,Large,4,65,0,260.0,UPI,Local,Dine-in,Cold,9.7,5.0,7.1,No Sugar,Full Cream,Yes
+CHAI1154,2026-05-18,Monday,19,Udaipur,Lemon Tea,Small,1,30,20,24.0,Cash,Student,Takeaway,Rainy,23.4,4.0,9.8,Extra,Toned,No
+CHAI1155,2026-01-27,Tuesday,19,Udaipur,Kesar Chai,Small,5,45,0,225.0,UPI,Student,Takeaway,Sunny,33.7,5.0,12.0,Extra,Toned,Yes
+CHAI1156,2026-02-22,Sunday,11,Indore,Kesar Chai,Large,2,65,20,104.0,Cash,Office Worker,Dine-in,Rainy,23.7,4.0,11.8,No Sugar,Toned,No
+CHAI1157,2026-01-16,Friday,14,Mumbai,Lemon Tea,Large,1,50,5,47.5,UPI,Tourist,Delivery,Cold,9.4,5.0,6.4,No Sugar,Regular,No
+CHAI1158,2026-05-12,Tuesday,18,Udaipur,Lemon Tea,Medium,3,40,5,114.0,Wallet,Tourist,Takeaway,Sunny,35.7,5.0,12.1,Extra,Toned,No
+CHAI1159,2026-02-24,Tuesday,19,Ahmedabad,Chocolate Chai,Small,3,50,5,142.5,Cash,Office Worker,Takeaway,Cold,11.4,2.0,5.3,Extra,Regular,Yes
+CHAI1160,2026-02-10,Tuesday,9,Kota,Chocolate Chai,Medium,5,60,15,255.0,UPI,Office Worker,Delivery,Rainy,26.7,3.0,9.0,No Sugar,Full Cream,Yes
+CHAI1161,2026-01-14,Wednesday,10,Pune,Kulhad Chai,Medium,2,45,0,90.0,UPI,Student,Takeaway,Sunny,29.7,4.0,9.8,No Sugar,Regular,No
+CHAI1162,2026-01-31,Saturday,21,Pune,Kulhad Chai,Medium,1,45,0,45.0,UPI,Student,Dine-in,Rainy,21.0,5.0,10.9,Less,Regular,Yes
+CHAI1163,2026-06-06,Saturday,8,Mumbai,Elaichi Chai,Medium,2,40,0,80.0,Card,Other,Takeaway,Cloudy,29.9,3.0,10.3,Normal,No Milk,No
+CHAI1164,2026-02-05,Thursday,10,Indore,Kesar Chai,Small,1,45,0,45.0,Cash,Student,Delivery,Rainy,23.2,5.0,5.7,No Sugar,Toned,No
+CHAI1165,2026-04-09,Thursday,9,Delhi,Adrak Chai,Small,2,25,10,45.0,Cash,Student,Delivery,Rainy,21.9,4.0,8.6,Less,No Milk,Yes
+CHAI1166,2026-01-05,Monday,19,Jaipur,Adrak Chai,Small,1,25,5,23.75,Card,Local,Takeaway,Hot,37.0,3.0,7.8,Less,Full Cream,Yes
+CHAI1167,2026-03-21,Saturday,11,Mumbai,Adrak Chai,Medium,1,35,10,31.5,Cash,Local,Takeaway,Sunny,32.4,5.0,3.5,No Sugar,No Milk,Yes
+CHAI1168,2026-04-27,Monday,14,Mumbai,Masala Chai,Small,2,25,0,50.0,UPI,Office Worker,Takeaway,Cloudy,30.5,5.0,10.2,Less,Full Cream,
+CHAI1169,2026-03-10,Tuesday,17,Kota,Adrak Chai,Medium,1,35,0,35.0,UPI,Student,Dine-in,Hot,32.9,4.0,7.5,Less,Full Cream,Yes
+CHAI1170,2026-03-07,Saturday,10,Delhi,Adrak Chai,Large,2,45,0,90.0,UPI,Other,Dine-in,Sunny,24.6,5.0,5.3,No Sugar,No Milk,Yes
+CHAI1171,2026-03-24,Tuesday,17,Indore,Kesar Chai,Medium,2,55,0,110.0,Card,Other,Dine-in,Hot,42.8,5.0,12.5,Extra,Regular,No
+CHAI1172,2026-03-14,Saturday,18,Jaipur,Lemon Tea,Small,2,30,0,60.0,UPI,Tourist,Takeaway,Rainy,24.2,4.0,8.1,Less,Toned,Yes
+CHAI1173,2026-01-02,Friday,20,Jaipur,Kulhad Chai,Small,2,35,0,70.0,Wallet,Student,Takeaway,Cold,15.4,4.0,12.5,Extra,No Milk,Yes
+CHAI1174,2026-02-06,Friday,16,Kota,Lemon Tea,Small,4,30,0,120.0,Cash,Tourist,Takeaway,Sunny,25.1,5.0,5.8,No Sugar,No Milk,Yes
+CHAI1175,2026-03-02,Monday,10,Kota,Lemon Tea,Small,1,30,0,30.0,Cash,Tourist,Dine-in,Rainy,18.7,5.0,8.3,Less,Regular,Yes
+CHAI1176,2026-04-26,Sunday,11,Ahmedabad,Chocolate Chai,Small,1,50,0,50.0,Wallet,Office Worker,Takeaway,Cold,16.5,5.0,5.7,No Sugar,Toned,No
+CHAI1177,2026-02-07,Saturday,7,Kota,Adrak Chai,Medium,4,35,10,126.0,UPI,Tourist,Dine-in,Cloudy,30.5,4.0,10.1,No Sugar,No Milk,Yes
+CHAI1178,2026-02-05,Thursday,16,Pune,Adrak Chai,Small,3,25,15,63.75,UPI,Local,Dine-in,Sunny,31.0,3.0,13.4,Less,No Milk,Yes
+CHAI1179,2026-01-24,Saturday,14,Jaipur,Green Tea,Small,4,40,5,152.0,UPI,Other,Takeaway,Cold,8.3,3.0,7.0,Less,Full Cream,No
+CHAI1180,2026-04-25,Saturday,14,Pune,Elaichi Chai,Small,2,30,0,60.0,Cash,Local,Dine-in,Hot,32.7,3.0,5.5,Less,Regular,No
+CHAI1181,2026-04-02,Thursday,10,Ahmedabad,Chocolate Chai,Medium,2,60,10,108.0,UPI,Office Worker,Dine-in,Hot,32.4,4.0,11.0,Extra,Full Cream,Yes
+CHAI1182,2026-02-10,Tuesday,12,Jaipur,Adrak Chai,Small,1,25,20,20.0,Cash,Office Worker,Takeaway,Cold,17.4,,5.1,Normal,Full Cream,Yes
+CHAI1183,2026-06-30,Tuesday,14,Pune,Green Tea,Large,2,60,0,120.0,Card,Local,Takeaway,Cloudy,20.4,4.0,3.9,Extra,Regular,No
+CHAI1184,2026-06-07,Sunday,16,Mumbai,Kesar Chai,Large,1,65,0,65.0,Card,Tourist,Dine-in,Cloudy,27.8,3.0,7.7,Normal,Regular,No
+CHAI1185,2026-06-30,Tuesday,19,Ahmedabad,Kulhad Chai,Medium,1,45,0,45.0,UPI,Office Worker,Takeaway,Cold,14.4,4.0,9.4,Normal,Toned,Yes
+CHAI1186,2026-04-07,Tuesday,7,Mumbai,Lemon Tea,Medium,1,40,0,40.0,Cash,Other,Dine-in,Hot,34.2,5.0,8.5,No Sugar,No Milk,Yes
+CHAI1187,2026-03-26,Thursday,14,Mumbai,Adrak Chai,Small,5,25,0,125.0,Cash,Student,Delivery,Rainy,18.1,5.0,9.0,No Sugar,Regular,Yes
+CHAI1188,2026-04-09,Thursday,8,Kota,Chocolate Chai,Medium,4,60,10,216.0,UPI,Local,Dine-in,Cold,16.3,4.0,11.9,Less,Toned,No
+CHAI1189,2026-01-19,Monday,18,Delhi,Masala Chai,Small,1,25,15,21.25,UPI,Office Worker,Delivery,Cloudy,20.8,5.0,6.0,Extra,Regular,No
+CHAI1190,2026-06-17,Wednesday,18,Jaipur,Elaichi Chai,Medium,1,40,15,34.0,UPI,Office Worker,Delivery,Cold,13.5,4.0,8.9,Normal,Toned,Yes
+CHAI1191,2026-01-13,Tuesday,20,Mumbai,Kulhad Chai,Medium,3,45,5,128.25,UPI,Student,Takeaway,Rainy,24.6,3.0,4.6,Less,Full Cream,Yes
+CHAI1192,2026-05-02,Saturday,13,Udaipur,Adrak Chai,Small,1,25,15,21.25,Card,Tourist,Dine-in,Hot,34.2,4.0,7.0,Normal,No Milk,No
+CHAI1193,2026-03-09,Monday,19,Mumbai,Kesar Chai,Large,2,65,20,104.0,Cash,Student,Dine-in,Rainy,23.4,4.0,8.7,Extra,No Milk,No
+CHAI1194,2026-05-27,Wednesday,9,Jaipur,Kesar Chai,Medium,1,55,10,49.5,UPI,Other,Takeaway,Hot,33.4,3.0,11.9,Less,Toned,
+CHAI1195,2026-01-11,Sunday,12,Pune,Kulhad Chai,Small,2,35,15,59.5,Wallet,Office Worker,Delivery,Rainy,27.1,2.0,7.2,Extra,Full Cream,No
+CHAI1196,2026-05-14,Thursday,16,Kota,Chocolate Chai,Large,1,70,15,59.5,UPI,Office Worker,Dine-in,Hot,41.1,5.0,8.1,No Sugar,Full Cream,No
+CHAI1197,2026-04-16,Thursday,16,Udaipur,Lemon Tea,Medium,2,40,0,80.0,UPI,Tourist,Dine-in,Hot,40.2,4.0,11.6,Less,Regular,No
+CHAI1198,2026-03-10,Tuesday,20,Indore,Green Tea,Small,3,40,0,120.0,UPI,Local,Delivery,Sunny,26.7,5.0,11.4,Normal,Full Cream,No
+CHAI1199,2026-06-04,Thursday,15,Kota,Adrak Chai,Small,1,25,0,25.0,Cash,Other,Delivery,Sunny,33.5,5.0,6.6,No Sugar,Toned,Yes
+CHAI1200,2026-02-21,Saturday,15,Ahmedabad,Masala Chai,Small,1,25,15,21.25,Cash,Tourist,Dine-in,Cold,12.0,5.0,5.2,Extra,No Milk,Yes
+CHAI1201,2026-05-02,Saturday,7,Indore,Green Tea,Small,3,40,0,120.0,Cash,Student,Dine-in,Cold,9.6,5.0,12.1,Less,Toned,No
+CHAI1202,2026-06-16,Tuesday,19,Jaipur,Kulhad Chai,Medium,3,45,0,135.0,UPI,Office Worker,Takeaway,Hot,32.1,5.0,7.1,Normal,No Milk,No
+CHAI1203,2026-03-31,Tuesday,15,Kota,Chocolate Chai,Small,1,50,5,47.5,Cash,Student,Takeaway,Rainy,24.5,4.0,4.0,No Sugar,Full Cream,No
+CHAI1204,2026-06-13,Saturday,19,Indore,Green Tea,Large,1,60,10,54.0,UPI,Other,Takeaway,Sunny,34.3,4.0,5.9,Less,Regular,No
+CHAI1205,2026-03-17,Tuesday,18,Jaipur,Lemon Tea,Large,1,50,5,47.5,Cash,Other,Takeaway,Rainy,25.1,5.0,7.3,Normal,Full Cream,Yes
+CHAI1206,2026-06-18,Thursday,17,Indore,Elaichi Chai,Small,1,30,5,28.5,Cash,Other,Takeaway,Cloudy,29.9,4.0,5.0,Normal,No Milk,No
+CHAI1207,2026-04-06,Monday,8,Delhi,Lemon Tea,Medium,1,40,0,40.0,UPI,Other,Takeaway,Hot,37.7,3.0,9.1,Normal,No Milk,Yes
+CHAI1208,2026-02-08,Sunday,12,Udaipur,Elaichi Chai,Large,1,50,0,50.0,UPI,Office Worker,Takeaway,Cold,14.3,5.0,3.0,Normal,Toned,Yes
+CHAI1209,2026-05-28,Thursday,13,Delhi,Elaichi Chai,Medium,2,40,0,80.0,UPI,Local,Takeaway,Cold,17.7,2.0,5.5,Normal,Regular,No
+CHAI1210,2026-05-16,Saturday,13,Pune,Kesar Chai,Small,1,45,0,45.0,UPI,Tourist,Dine-in,Sunny,30.0,2.0,3.4,Normal,No Milk,No
+CHAI1211,2026-04-22,Wednesday,7,Ahmedabad,Elaichi Chai,Small,3,30,10,81.0,Cash,Office Worker,Delivery,Cold,10.3,3.0,11.0,Less,Regular,No
+CHAI1212,2026-06-16,Tuesday,7,Jaipur,Masala Chai,Medium,2,35,0,70.0,Cash,Student,Takeaway,Sunny,32.3,4.0,8.6,Extra,Toned,Yes
+CHAI1213,2026-06-27,Saturday,15,Indore,Masala Chai,Small,2,25,0,50.0,Cash,Office Worker,Dine-in,Sunny,32.6,3.0,4.7,Less,Toned,No
+CHAI1214,2026-05-14,Thursday,12,Mumbai,Kesar Chai,Medium,1,55,0,55.0,UPI,Local,Delivery,Cold,10.3,3.0,4.0,Extra,Toned,Yes
+CHAI1215,2026-05-11,Monday,11,Indore,Adrak Chai,Medium,1,35,0,35.0,Cash,Local,Delivery,Rainy,22.6,3.0,3.4,Normal,Full Cream,No
+CHAI1216,2026-04-20,Monday,12,Jaipur,Adrak Chai,Small,2,25,0,50.0,UPI,Office Worker,Takeaway,Cloudy,23.9,5.0,11.6,No Sugar,Full Cream,No
+CHAI1217,2026-02-16,Monday,8,Indore,Adrak Chai,Medium,4,35,10,126.0,Card,Local,Takeaway,Cloudy,21.5,5.0,12.7,No Sugar,No Milk,No
+CHAI1218,2026-05-26,Tuesday,8,Ahmedabad,Chocolate Chai,Small,1,50,0,50.0,Cash,Office Worker,Takeaway,Cold,16.9,2.0,8.9,No Sugar,Toned,No
+CHAI1219,2026-05-13,Wednesday,21,Udaipur,Adrak Chai,Medium,2,35,0,70.0,UPI,Local,Dine-in,Hot,43.9,5.0,5.1,Extra,No Milk,Yes
+CHAI1220,2026-01-20,Tuesday,13,Indore,Chocolate Chai,Small,1,50,0,50.0,UPI,Office Worker,Takeaway,Cold,16.2,4.0,8.2,No Sugar,No Milk,No
+CHAI1221,2026-03-22,Sunday,7,Jaipur,Adrak Chai,Large,2,45,10,81.0,UPI,Local,Dine-in,Hot,41.9,,9.4,Less,No Milk,No
+CHAI1222,2026-04-04,Saturday,18,Ahmedabad,Masala Chai,Large,3,45,0,135.0,Cash,Other,Takeaway,Rainy,22.5,5.0,4.4,Normal,Full Cream,No
+CHAI1223,2026-06-29,Monday,10,Mumbai,Adrak Chai,Small,1,25,15,21.25,Card,Local,Dine-in,Hot,34.3,4.0,7.1,Less,Full Cream,Yes
+CHAI1224,2026-04-17,Friday,15,Delhi,Masala Chai,Large,3,45,0,135.0,Cash,Local,Takeaway,Hot,33.6,4.0,4.8,Extra,No Milk,Yes
+CHAI1225,2026-06-27,Saturday,21,Kota,Elaichi Chai,Medium,1,40,20,32.0,Cash,Other,Delivery,Hot,36.6,5.0,9.9,Normal,No Milk,No
+CHAI1226,2026-03-17,Tuesday,17,Indore,Chocolate Chai,Large,1,70,0,70.0,Card,Other,Delivery,Hot,34.6,5.0,9.2,Less,Toned,No
+CHAI1227,2026-01-30,Friday,19,Kota,Green Tea,Medium,2,50,0,100.0,Cash,Other,Dine-in,Cold,8.1,4.0,4.2,No Sugar,Toned,No
+CHAI1228,2026-02-11,Wednesday,7,Jaipur,Lemon Tea,Medium,1,40,0,40.0,Cash,Tourist,Dine-in,Hot,36.3,4.0,9.1,Less,No Milk,Yes
+CHAI1229,2026-05-11,Monday,7,Kota,Lemon Tea,Medium,1,40,0,40.0,UPI,Tourist,Delivery,Sunny,32.9,5.0,10.7,Extra,Toned,No
+CHAI1230,2026-05-31,Sunday,18,Indore,Kesar Chai,Medium,4,55,0,220.0,UPI,Student,Dine-in,Cloudy,25.7,4.0,10.1,Less,Toned,No
+CHAI1231,2026-01-02,Friday,20,Jaipur,Green Tea,Medium,4,50,0,200.0,UPI,Tourist,Takeaway,Hot,39.9,4.0,8.3,Normal,Toned,Yes
+CHAI1232,2026-05-14,Thursday,12,Kota,Adrak Chai,Medium,1,35,0,35.0,UPI,Office Worker,Delivery,Rainy,21.6,,7.8,No Sugar,Regular,No
+CHAI1233,2026-04-25,Saturday,13,Pune,Kesar Chai,Large,2,65,10,117.0,Wallet,Tourist,Dine-in,Sunny,27.1,2.0,8.4,Normal,No Milk,No
+CHAI1234,2026-01-12,Monday,15,Delhi,Lemon Tea,Large,1,50,0,50.0,Card,Office Worker,Delivery,Hot,,5.0,10.0,Extra,Regular,Yes
+CHAI1235,2026-05-18,Monday,7,Mumbai,Kulhad Chai,Medium,4,45,0,180.0,UPI,Tourist,Dine-in,Sunny,26.1,3.0,12.5,Normal,No Milk,No
+CHAI1236,2026-04-26,Sunday,7,Delhi,Kulhad Chai,Medium,1,45,0,45.0,Cash,Other,Dine-in,Hot,40.4,5.0,4.0,Normal,Regular,No
+CHAI1237,2026-04-23,Thursday,19,Udaipur,Kulhad Chai,Medium,2,45,0,90.0,UPI,Office Worker,Dine-in,Cold,16.0,5.0,5.0,Normal,Regular,Yes
+CHAI1238,2026-02-01,Sunday,9,Delhi,Masala Chai,Small,2,25,0,50.0,UPI,Tourist,Dine-in,Hot,33.9,5.0,5.4,Less,Regular,No
+CHAI1239,2026-06-15,Monday,12,Delhi,Adrak Chai,Small,1,25,5,23.75,UPI,Other,Takeaway,Rainy,19.3,3.0,8.6,Less,Full Cream,No
+CHAI1240,2026-04-26,Sunday,9,Mumbai,Green Tea,Medium,1,50,0,50.0,Cash,Tourist,Takeaway,Cold,8.0,4.0,9.7,Extra,,No
+CHAI1241,2026-02-04,Wednesday,17,Ahmedabad,Green Tea,Large,1,60,10,54.0,Cash,Local,Takeaway,Cloudy,26.7,5.0,4.3,Less,Full Cream,Yes
+CHAI1242,2026-01-20,Tuesday,11,Kota,Masala Chai,Large,2,45,20,72.0,Cash,Office Worker,Delivery,Hot,38.5,4.0,10.7,Normal,No Milk,Yes
+CHAI1243,2026-05-31,Sunday,20,Delhi,Lemon Tea,Small,2,30,20,48.0,UPI,Other,Dine-in,Cloudy,30.6,5.0,10.5,Less,No Milk,Yes
+CHAI1244,2026-02-15,Sunday,12,Ahmedabad,Elaichi Chai,Medium,2,40,5,76.0,UPI,Local,Dine-in,Rainy,20.3,4.0,10.8,Extra,No Milk,No
+CHAI1245,2026-01-12,Monday,9,Indore,Masala Chai,Large,1,45,0,45.0,Card,Tourist,Takeaway,Hot,36.5,4.0,11.1,No Sugar,Full Cream,No
+CHAI1246,2026-02-27,Friday,14,Udaipur,Kulhad Chai,Medium,3,45,0,135.0,Cash,Other,Dine-in,Cloudy,21.8,5.0,6.3,Less,Toned,No
+CHAI1247,2026-06-04,Thursday,10,Ahmedabad,Adrak Chai,Medium,1,35,5,33.25,Cash,Local,Takeaway,Cold,13.9,4.0,5.2,Less,Toned,Yes
+CHAI1248,2026-06-11,Thursday,16,Mumbai,Masala Chai,Large,1,45,5,42.75,UPI,Office Worker,Takeaway,Cold,17.7,5.0,9.6,Normal,Regular,Yes
+CHAI1249,2026-04-25,Saturday,16,Kota,Chocolate Chai,Large,1,70,0,70.0,Cash,Other,Delivery,Cloudy,27.3,5.0,6.1,Extra,Regular,Yes
+CHAI1250,2026-04-07,Tuesday,21,Kota,Kulhad Chai,Small,1,35,0,35.0,Card,Other,Dine-in,Cold,14.1,,7.5,No Sugar,Regular,No
+CHAI1251,2026-06-18,Thursday,20,Jaipur,Elaichi Chai,Large,2,50,0,100.0,Card,Local,Takeaway,Rainy,18.4,4.0,10.9,Extra,Full Cream,Yes
+CHAI1252,2026-04-19,Sunday,7,Delhi,Elaichi Chai,Small,2,30,10,54.0,UPI,Other,Dine-in,Cloudy,,4.0,4.8,No Sugar,No Milk,Yes
+CHAI1253,2026-06-26,Friday,13,Kota,Green Tea,Medium,1,50,5,47.5,Cash,Tourist,Dine-in,Hot,38.8,5.0,6.6,Less,No Milk,No
+CHAI1254,2026-02-15,Sunday,18,Indore,Green Tea,Medium,2,50,10,90.0,Cash,Local,Takeaway,Sunny,26.8,5.0,4.6,Extra,Full Cream,Yes
+CHAI1255,2026-02-11,Wednesday,8,Delhi,Kulhad Chai,Large,1,55,0,55.0,Card,Local,Delivery,Cold,8.6,3.0,3.3,Extra,No Milk,No
+CHAI1256,2026-06-02,Tuesday,11,Udaipur,Masala Chai,Large,3,45,10,121.5,UPI,Office Worker,Delivery,Hot,34.3,4.0,10.7,Less,Regular,No
+CHAI1257,2026-03-03,Tuesday,16,Indore,Masala Chai,Large,1,45,0,45.0,Cash,Tourist,Takeaway,Cold,10.0,5.0,11.3,Normal,Full Cream,No
+CHAI1258,2026-03-12,Thursday,8,Kota,Kesar Chai,Medium,1,55,0,55.0,Cash,Tourist,Dine-in,Hot,38.7,4.0,4.1,Normal,Full Cream,No
+CHAI1259,2026-04-07,Tuesday,8,Udaipur,Chocolate Chai,Medium,2,60,0,120.0,Cash,Other,Delivery,Cold,10.6,5.0,5.7,Less,Full Cream,No
+CHAI1260,2026-04-01,Wednesday,14,Indore,Masala Chai,Medium,1,35,0,35.0,UPI,Tourist,Dine-in,Cloudy,23.5,4.0,4.6,Less,No Milk,Yes
+CHAI1261,2026-03-02,Monday,8,Pune,Kesar Chai,Large,1,65,5,61.75,Card,Other,Dine-in,Sunny,35.0,5.0,8.5,No Sugar,No Milk,No
+CHAI1262,2026-06-08,Monday,19,Indore,Green Tea,Medium,5,50,0,250.0,UPI,Other,Dine-in,Cloudy,26.3,5.0,10.1,No Sugar,Full Cream,No
+CHAI1263,2026-06-25,Thursday,13,Udaipur,Elaichi Chai,Medium,1,40,0,40.0,UPI,Student,Dine-in,Cloudy,26.4,4.0,5.3,Normal,,No
+CHAI1264,2026-05-01,Friday,11,Pune,Green Tea,Medium,2,50,0,100.0,UPI,Tourist,Dine-in,Cold,12.5,5.0,9.9,No Sugar,Full Cream,Yes
+CHAI1265,2026-05-23,Saturday,9,Mumbai,Kulhad Chai,Large,1,55,10,49.5,UPI,Student,Dine-in,Cold,18.0,4.0,9.5,Extra,Full Cream,No
+CHAI1266,2026-05-24,Sunday,14,Jaipur,Masala Chai,Medium,2,35,0,70.0,UPI,Tourist,Takeaway,Sunny,,4.0,8.7,Normal,Full Cream,Yes
+CHAI1267,2026-04-16,Thursday,12,Pune,Adrak Chai,Medium,2,35,0,70.0,cash,Other,Dine-in,Rainy,21.3,5.0,37.5,No Sugar,No Milk,No
+CHAI1268,2026-04-29,Wednesday,8,Ahmedabad,Elaichi Chai,Large,2,50,0,100.0,UPI,Other,Takeaway,Sunny,25.9,4.0,6.3,Normal,No Milk,No
+CHAI1269,2026-04-24,Friday,18,Udaipur,Green Tea,Medium,2,50,0,100.0,UPI,Office Worker,Delivery,Cloudy,22.6,5.0,10.4,Less,Toned,No
+CHAI1270,2026-01-27,Tuesday,8, jaipur ,Adrak Chai,Small,3,25,0,75.0,UPI,Local,Takeaway,Sunny,27.1,5.0,12.4,Normal,Toned,Yes
+CHAI1271,2026-03-14,Saturday,20,Mumbai,Chocolate Chai,Medium,1,60,20,48.0,UPI,Tourist,Delivery,Rainy,22.8,4.0,5.5,Extra,Toned,Yes
+CHAI1272,2026-06-01,Monday,14,Kota,Chocolate Chai,Medium,2,60,10,108.0,Cash,Other,Dine-in,Rainy,23.4,4.0,7.0,Normal,Toned,No
+CHAI1273,2026-01-03,Saturday,19,Mumbai,Masala Chai,Medium,2,35,0,70.0,UPI,Local,Takeaway,Cold,12.8,4.0,6.3,Less,Regular,No
+CHAI1274,2026-02-18,Wednesday,11,Pune,Kulhad Chai,Large,1,55,5,52.25,UPI,Local,Delivery,Cloudy,20.9,4.0,10.2,Normal,Full Cream,No
+CHAI1275,2026-04-16,Thursday,18,Indore,Kesar Chai,Large,1,65,0,65.0,UPI,Local,Takeaway,Rainy,24.2,1.0,3.4,No Sugar,Toned,Yes
+CHAI1276,2026-03-14,Saturday,12,Jaipur,Lemon Tea,Small,1,30,10,27.0,UPI,Office Worker,Dine-in,Cloudy,,4.0,6.3,No Sugar,Full Cream,Yes
+CHAI1277,2026-02-07,Saturday,8,Udaipur,Masala Chai,Small,1,25,5,23.75,UPI,Tourist,Takeaway,Sunny,35.7,4.0,11.8,Less,Regular,Yes
+CHAI1278,2026-04-28,Tuesday,17,Udaipur,Adrak Chai,Medium,5,35,10,157.5,UPI,Tourist,Delivery,Cloudy,28.0,,6.9,Extra,Full Cream,
+CHAI1279,2026-04-03,Friday,19,Delhi,Masala Chai,Large,1,45,0,45.0,UPI,Local,Dine-in,Cloudy,23.0,5.0,3.1,No Sugar,No Milk,Yes
+CHAI1280,2026-04-06,Monday,18,Ahmedabad,Adrak Chai,Small,2,25,0,50.0,Card,Student,Dine-in,Cloudy,25.9,4.0,6.6,Normal,No Milk,Yes
+CHAI1281,2026-01-06,Tuesday,18,Jaipur,Kulhad Chai,Medium,1,45,0,45.0,UPI,Local,Takeaway,Hot,37.9,4.0,5.9,Extra,Full Cream,Yes
+CHAI1282,2026-01-18,Sunday,21,Ahmedabad,Elaichi Chai,Medium,3,40,10,108.0,UPI,Other,Dine-in,Cloudy,20.2,,6.5,No Sugar,No Milk,Yes
+CHAI1283,2026-05-15,Friday,17,Indore,Chocolate Chai,Medium,1,60,10,54.0,UPI,Tourist,Dine-in,Hot,32.8,3.0,10.9,Less,Regular,No
+CHAI1284,2026-02-19,Thursday,11,Kota,Adrak Chai,Small,2,25,0,50.0,Cash,Other,Takeaway,Hot,32.6,5.0,3.8,Less,No Milk,Yes
+CHAI1285,2026-04-30,Thursday,15,Kota,Masala Chai,Medium,2,35,0,70.0,Card,Student,Delivery,Rainy,18.4,4.0,,No Sugar,Regular,Yes
+CHAI1286,2026-05-17,Sunday,13,Pune,Kulhad Chai,Small,2,35,10,63.0,Cash,Office Worker,Takeaway,Hot,41.0,4.0,9.8,Extra,Regular,Yes
+CHAI1287,2026-02-16,Monday,20,Udaipur,Kulhad Chai,Medium,2,45,10,81.0,Card,Tourist,Takeaway,Rainy,21.7,4.0,10.2,Less,Toned,No
+CHAI1288,2026-05-21,Thursday,7,Kota,Lemon Tea,Medium,1,40,20,32.0,UPI,Student,Delivery,Hot,38.2,4.0,5.7,Less,Toned,No
+CHAI1289,2026-01-06,Tuesday,11,Mumbai,Lemon Tea,Large,2,50,5,95.0,UPI,Local,Dine-in,Cloudy,24.0,4.0,11.0,No Sugar,No Milk,Yes
+CHAI1290,2026-01-20,Tuesday,13,Delhi,Green Tea,Medium,1,50,0,50.0,Cash,Tourist,Dine-in,Hot,32.9,5.0,6.1,Extra,No Milk,Yes
+CHAI1291,2026-02-28,Saturday,9,Jaipur,Masala Chai,Medium,2,35,5,66.5,UPI,Student,Dine-in,Hot,35.9,3.0,9.8,Extra,No Milk,Yes
+CHAI1292,2026-02-26,Thursday,15,Mumbai,Kulhad Chai,Small,1,35,0,35.0,UPI,Local,Takeaway,Sunny,28.8,4.0,10.0,Less,Toned,No
+CHAI1293,2026-05-24,Sunday,11,Pune,Kesar Chai,Medium,2,55,0,110.0,Cash,Other,Dine-in,Sunny,33.3,5.0,4.5,Extra,No Milk,No
+CHAI1294,2026-03-31,Tuesday,20,Jaipur,Kesar Chai,Small,2,45,0,90.0,Cash,Office Worker,Delivery,Hot,43.9,3.0,4.1,Less,Toned,No
+CHAI1295,2026-02-09,Monday,11,Mumbai,Adrak Chai,Small,1,25,0,25.0,Card,Tourist,Dine-in,Sunny,29.4,4.0,7.8,Less,Full Cream,No
+CHAI1296,2026-06-09,Tuesday,7,Kota,Elaichi Chai,Medium,2,40,10,72.0,Cash,Other,Dine-in,Cloudy,23.1,4.0,4.2,No Sugar,Regular,No
+CHAI1297,2026-06-19,Friday,10,Ahmedabad,Lemon Tea,Medium,4,40,0,160.0,Card,Student,Dine-in,Cold,17.8,5.0,13.2,Extra,Regular,Yes
+CHAI1298,2026-02-20,Friday,13,Jaipur,Chocolate Chai,Medium,2,60,0,120.0,UPI,Other,Dine-in,Cold,15.4,5.0,6.9,Normal,Toned,No
+CHAI1299,2026-01-16,Friday,21,Jaipur,Lemon Tea,Large,3,50,0,150.0,Card,Tourist,Dine-in,Rainy,21.9,5.0,9.1,Less,No Milk,Yes
+CHAI1300,2026-05-27,Wednesday,16,Ahmedabad,Elaichi Chai,Medium,1,40,10,36.0,UPI,Office Worker,Dine-in,Cloudy,26.0,5.0,5.8,Less,No Milk,Yes
+CHAI1301,2026-06-17,Wednesday,21,Delhi,Elaichi Chai,Small,2,30,20,48.0,UPI,Office Worker,Takeaway,Rainy,27.7,4.0,10.4,Normal,Toned,Yes
+CHAI1302,2026-01-28,Wednesday,10,Indore,Elaichi Chai,Small,2,30,0,60.0,Cash,Other,Dine-in,Cloudy,27.6,5.0,8.0,Extra,Full Cream,Yes
+CHAI1303,2026-04-10,Friday,10,Pune,Chocolate Chai,Medium,1,60,20,48.0,UPI,Student,Delivery,Cold,15.4,5.0,3.6,Extra,No Milk,No
+CHAI1304,2026-04-28,Tuesday,16,Kota,Kesar Chai,Medium,2,55,5,104.5,Cash,Local,Takeaway,Hot,38.4,5.0,4.0,No Sugar,No Milk,No
+CHAI1305,2026-01-11,Sunday,10,Jaipur,Kesar Chai,Medium,1,55,0,55.0,Cash,Other,Takeaway,Sunny,27.5,4.0,10.4,Extra,Toned,No
+CHAI1306,2026-03-17,Tuesday,8,Udaipur,Masala Chai,Medium,3,35,5,99.75,Card,Local,Dine-in,Hot,34.2,5.0,,Extra,No Milk,No
+CHAI1307,2026-04-26,Sunday,18,Pune,Masala Chai,Small,2,25,0,50.0,Card,Student,Dine-in,Cloudy,28.1,5.0,9.4,No Sugar,No Milk,Yes
+CHAI1308,2026-04-07,Tuesday,9,Ahmedabad,Kulhad Chai,Small,1,35,0,35.0,Cash,Office Worker,Dine-in,Cloudy,28.5,4.0,9.6,Extra,Full Cream,Yes
+CHAI1309,2026-01-31,Saturday,19,Indore,Elaichi Chai,Large,1,50,15,42.5,UPI,Local,Delivery,Hot,32.1,4.0,8.3,Extra,No Milk,No
+CHAI1310,2026-04-24,Friday,7,Indore,Adrak Chai,Medium,1,35,0,35.0,Cash,Other,Delivery,Cloudy,22.0,4.0,4.3,No Sugar,Full Cream,No
+CHAI1311,2026-01-23,Friday,16,Mumbai,Masala Chai,Small,5,25,0,125.0,Cash,Other,Takeaway,Hot,41.4,4.0,11.0,No Sugar,Regular,No
+CHAI1312,2026-03-24,Tuesday,8,Kota,Green Tea,Large,3,60,0,180.0,card,Student,Dine-in,Cloudy,27.6,4.0,9.1,Less,Regular,Yes
+CHAI1313,2026-05-27,Wednesday,16,Indore,Adrak Chai,Medium,2,35,0,70.0,UPI,Tourist,Dine-in,Hot,36.2,4.0,8.4,Extra,No Milk,Yes
+CHAI1314,2026-06-06,Saturday,18,Jaipur,Kesar Chai,Medium,5,55,10,247.5,UPI,Local,Takeaway,Sunny,34.2,5.0,9.5,Normal,Full Cream,Yes
+CHAI1315,2026-01-03,Saturday,8,Delhi,Kesar Chai,Medium,1,55,0,55.0,UPI,Other,Takeaway,Sunny,32.2,5.0,8.5,No Sugar,Toned,Yes
+CHAI1316,2026-03-26,Thursday,21,Udaipur,Green Tea,Large,1,60,15,51.0,Cash,Office Worker,Takeaway,Cold,16.7,4.0,10.3,No Sugar,Full Cream,No
+CHAI1317,2026-05-23,Saturday,12,Ahmedabad,Masala Chai,Small,2,25,5,47.5,UPI,Office Worker,Dine-in,Sunny,35.8,5.0,8.8,Extra,Toned,Yes
+CHAI1318,2026-03-20,Friday,10,Delhi,Green Tea,Medium,1,50,0,50.0,UPI,Office Worker,Dine-in,Rainy,23.3,4.0,3.3,Less,Regular,No
+CHAI1319,2026-05-10,Sunday,11,Mumbai,Masala Chai,Medium,3,35,0,105.0,UPI,Local,Takeaway,Hot,41.3,5.0,11.8,Less,Toned,Yes
+CHAI1320,2026-04-28,Tuesday,20,Jaipur,Kulhad Chai,Medium,2,45,0,90.0,UPI,Student,Takeaway,Hot,33.0,2.0,8.4,Normal,Regular,No
+CHAI1321,2026-06-13,Saturday,9,Indore,Kesar Chai,Small,1,45,0,45.0,Cash,Local,Takeaway,Rainy,19.6,5.0,8.0,No Sugar,Toned,No
+CHAI1322,2026-05-21,Thursday,21,Indore,Green Tea,Small,4,40,0,160.0,Cash,Office Worker,Dine-in,Hot,36.1,3.0,9.3,No Sugar,Regular,No
+CHAI1323,2026-01-14,Wednesday,18,Udaipur,Adrak Chai,Medium,1,35,10,31.5,Cash,Tourist,Dine-in,Cloudy,28.3,3.0,11.3,Extra,Toned,Yes
+CHAI1324,2026-06-28,Sunday,11,Udaipur,Chocolate Chai,Small,1,50,0,50.0,UPI,Office Worker,Dine-in,Hot,43.0,5.0,9.0,Normal,No Milk,No
+CHAI1325,2026-01-08,Thursday,16,Udaipur,Adrak Chai,Medium,1,35,0,35.0,Card,Tourist,Takeaway,Hot,33.5,5.0,10.2,Normal,Regular,No
+CHAI1326,2026-05-17,Sunday,10,Pune,Chocolate Chai,Medium,1,60,5,57.0,Cash,Local,Dine-in,Rainy,26.1,5.0,6.9,Normal,Toned,Yes
+CHAI1327,2026-06-19,Friday,8,Udaipur,Adrak Chai,Medium,2,35,0,70.0,UPI,Other,Takeaway,Hot,41.9,,4.3,No Sugar,No Milk,No
+CHAI1328,2026-05-07,Thursday,13,Jaipur,Masala Chai,Small,3,25,0,75.0,Cash,Office Worker,Takeaway,Rainy,24.2,4.0,12.3,Normal,Full Cream,No
+CHAI1329,2026-03-30,Monday,7,Kota,Adrak Chai,Medium,2,35,0,70.0,Card,Tourist,Dine-in,Hot,32.0,5.0,4.7,Normal,Regular,Yes
+CHAI1330,2026-04-21,Tuesday,14,Kota,Kulhad Chai,Medium,2,45,0,90.0,UPI,Other,Dine-in,Cloudy,21.5,5.0,6.9,Extra,Toned,No
+CHAI1331,2026-06-21,Sunday,8,Jaipur,Elaichi Chai,Small,1,30,10,27.0,UPI,Local,Takeaway,Cloudy,21.5,5.0,11.0,Extra,Toned,No
+CHAI1332,2026-05-11,Monday,14,Ahmedabad,Kulhad Chai,Medium,1,45,0,45.0,UPI,Local,Takeaway,Hot,42.2,4.0,6.7,Normal,Regular,Yes
+CHAI1333,2026-05-26,Tuesday,20,Udaipur,Chocolate Chai,Medium,1,60,10,54.0,Wallet,Student,Dine-in,Hot,43.8,4.0,3.7,No Sugar,Toned,No
+CHAI1334,2026-06-11,Thursday,14,Indore,Adrak Chai,Medium,2,35,15,59.5,Cash,Tourist,Takeaway,Sunny,29.4,4.0,6.7,Normal,Full Cream,No
+CHAI1335,2026-02-12,Thursday,16,Indore,Masala Chai,Medium,2,35,0,70.0,Cash,Other,Dine-in,Cold,9.7,5.0,11.0,No Sugar,Full Cream,No
+CHAI1336,2026-01-22,Thursday,7,Indore,Elaichi Chai,Medium,3,40,5,114.0,UPI,Other,Dine-in,Rainy,25.4,5.0,11.1,Extra,Full Cream,Yes
+CHAI1337,2026-03-08,Sunday,21,Jaipur,Kesar Chai,Medium,3,55,10,148.5,UPI,Student,Delivery,Hot,41.9,5.0,8.1,Extra,Toned,No
+CHAI1338,2026-06-13,Saturday,7,Ahmedabad,Elaichi Chai,Small,2,30,0,60.0,UPI,Tourist,Takeaway,Sunny,26.0,4.0,10.4,Less,No Milk,No
+CHAI1339,2026-05-02,Saturday,15,Jaipur,Lemon Tea,Small,3,30,0,90.0,UPI,Local,Dine-in,Rainy,24.8,5.0,10.1,Extra,Full Cream,No
+CHAI1340,2026-03-11,Wednesday,19,Kota,Lemon Tea,Large,1,50,0,50.0,UPI,Office Worker,Takeaway,Hot,34.3,5.0,4.6,No Sugar,Regular,Yes
+CHAI1341,2026-01-04,Sunday,7,Udaipur,Kulhad Chai,Small,1,35,0,35.0,UPI,Tourist,Dine-in,Sunny,31.4,4.0,11.0,Less,Regular,Yes
+CHAI1342,2026-01-23,Friday,17,Mumbai,Elaichi Chai,Medium,2,40,5,76.0,Card,Office Worker,Dine-in,Cold,17.4,5.0,6.2,Extra,Full Cream,No
+CHAI1343,2026-02-11,Wednesday,9,Kota,Adrak Chai,Small,1,25,0,25.0,UPI,Student,Dine-in,Rainy,22.4,5.0,8.5,Less,No Milk,Yes
+CHAI1344,2026-02-06,Friday,16,Udaipur,Kulhad Chai,Small,2,35,10,63.0,Cash,Student,Dine-in,Sunny,32.7,1.0,8.2,No Sugar,Regular,No
+CHAI1345,2026-03-10,Tuesday,20,Jaipur,Elaichi Chai,Medium,3,40,10,108.0,UPI,Local,Takeaway,Cold,15.3,3.0,6.4,Extra,No Milk,Yes
+CHAI1346,2026-05-26,Tuesday,8,Jaipur,Green Tea,Small,1,40,10,36.0,Cash,Student,Dine-in,Rainy,26.4,4.0,4.8,No Sugar,No Milk,Yes
+CHAI1347,2026-03-18,Wednesday,7,Ahmedabad,Kulhad Chai,Large,2,55,5,104.5,UPI,Local,Takeaway,Cloudy,22.1,4.0,8.1,No Sugar,Full Cream,No
+CHAI1348,2026-05-17,Sunday,19,Ahmedabad,Chocolate Chai,Large,1,70,0,70.0,UPI,Student,Dine-in,Cloudy,27.2,5.0,10.8,Less,Toned,Yes
+CHAI1349,2026-01-10,Saturday,21,Jaipur,Elaichi Chai,Medium,1,40,10,36.0,UPI,Office Worker,Dine-in,Sunny,27.7,4.0,4.5,No Sugar,Regular,Yes
+CHAI1350,2026-05-08,Friday,15,Ahmedabad,Kesar Chai,Small,1,45,10,40.5,Card,Local,Dine-in,Hot,33.6,5.0,9.9,Less,Full Cream,Yes
+CHAI1351,2026-01-31,Saturday,7,Ahmedabad,Lemon Tea,Small,1,30,10,27.0,Cash,Local,Dine-in,Hot,33.6,5.0,6.4,Less,Regular,No
+CHAI1352,2026-01-21,Wednesday,9,Indore,Masala Chai,Small,4,25,0,100.0,UPI,Local,Takeaway,Cloudy,27.0,4.0,13.5,No Sugar,,No
+CHAI1353,2026-06-06,Saturday,15,Ahmedabad,Adrak Chai,Medium,3,35,5,99.75,UPI,Other,Dine-in,Sunny,35.7,5.0,13.3,Less,No Milk,Yes
+CHAI1354,2026-03-12,Thursday,7,Udaipur,Masala Chai,Small,3,25,0,75.0,UPI,Office Worker,Takeaway,Sunny,31.7,4.0,7.4,Extra,Regular,Yes
+CHAI1355,2026-01-14,Wednesday,16,Delhi,Elaichi Chai,Small,1,30,0,30.0,UPI,Office Worker,Takeaway,Hot,35.9,5.0,5.9,No Sugar,Full Cream,Yes
+CHAI1356,2026-01-26,Monday,7,Kota,Kesar Chai,Medium,3,55,0,165.0,Card,Student,Takeaway,Cold,16.9,5.0,8.5,Extra,Full Cream,Yes
+CHAI1357,2026-04-28,Tuesday,11,Pune,Kesar Chai,Medium,5,55,10,247.5,UPI,Student,Takeaway,Sunny,25.6,4.0,7.3,Normal,Toned,No
+CHAI1358,2026-06-04,Thursday,13,Mumbai,Elaichi Chai,Medium,2,40,0,80.0,Cash,Other,Delivery,Sunny,34.3,5.0,9.0,Extra,Full Cream,Yes
+CHAI1359,2026-04-20,Monday,21,Pune,Kesar Chai,Small,1,45,20,36.0,Card,Other,Delivery,Hot,32.1,2.0,7.2,No Sugar,No Milk,No
+CHAI1360,2026-05-03,Sunday,12,Jaipur,Adrak Chai,Medium,1,35,5,33.25,Cash,Local,Delivery,Cloudy,23.3,3.0,7.3,Normal,Toned,No
+CHAI1361,2026-05-27,Wednesday,17,Mumbai,Masala Chai,Large,1,45,5,42.75,Card,Local,Dine-in,Rainy,,5.0,3.6,Normal,Regular,No
+CHAI1362,2026-04-20,Monday,18,Pune,Lemon Tea,Medium,2,40,0,80.0,Cash,Student,Takeaway,Rainy,27.3,5.0,7.0,No Sugar,Regular,No
+CHAI1363,2026-04-04,Saturday,9,Mumbai,Chocolate Chai,Medium,1,60,0,60.0,Cash,Student,Takeaway,Cloudy,30.8,3.0,7.3,Less,Toned,No
+CHAI1364,2026-04-01,Wednesday,15,Jaipur,Lemon Tea,Medium,1,40,0,40.0,UPI,Tourist,Takeaway,Hot,42.0,4.0,10.4,Normal,No Milk,No
+CHAI1365,2026-06-22,Monday,8,Delhi,Adrak Chai,Small,3,25,0,75.0,UPI,Office Worker,Dine-in,Sunny,26.0,3.0,5.8,Less,Regular,No
+CHAI1366,2026-04-17,Friday,20,Jaipur,Elaichi Chai,Medium,1,40,5,38.0,UPI,Student,Dine-in,Cloudy,30.4,4.0,6.1,Normal,No Milk,No
+CHAI1367,2026-04-28,Tuesday,11,Indore,Lemon Tea,Medium,3,40,0,120.0,UPI,Tourist,Dine-in,Rainy,25.7,4.0,8.5,Less,Toned,No
+CHAI1368,2026-02-16,Monday,16,Mumbai,Elaichi Chai,Large,2,50,0,100.0,UPI,Student,Dine-in,Rainy,19.3,3.0,8.8,No Sugar,Full Cream,No
+CHAI1369,2026-02-07,Saturday,19,Indore,Green Tea,Medium,5,50,0,250.0,UPI,Student,Dine-in,Cold,9.5,4.0,5.8,Normal,Full Cream,No
+CHAI1370,2026-03-16,Monday,9,Udaipur,Elaichi Chai,Medium,2,40,0,80.0,UPI,Student,Takeaway,Sunny,32.1,2.0,9.3,Less,No Milk,No
+CHAI1371,2026-01-24,Saturday,15,Pune,Green Tea,Small,2,40,5,76.0,Cash,Tourist,Dine-in,Sunny,34.2,5.0,12.5,Extra,Toned,No
+CHAI1372,2026-03-23,Monday,7,Mumbai,Masala Chai,Large,1,45,0,45.0,Cash,Local,Dine-in,Rainy,20.8,5.0,10.9,No Sugar,Toned,No
+CHAI1373,2026-04-17,Friday,16,Kota,Chocolate Chai,Small,3,50,0,150.0,Cash,Local,Dine-in,Hot,33.0,4.0,12.2,Normal,Regular,No
+CHAI1374,2026-01-23,Friday,10,Kota,Masala Chai,Medium,4,35,0,140.0,UPI,Local,Takeaway,Cloudy,22.0,4.0,5.5,Normal,Full Cream,No
+CHAI1375,2026-05-24,Sunday,13,Mumbai,Chocolate Chai,Small,3,50,15,127.5,UPI,Local,Dine-in,Rainy,19.8,5.0,4.7,Normal,No Milk,Yes
+CHAI1376,2026-06-03,Wednesday,12,Indore,Green Tea,Medium,2,50,0,100.0,Cash,Local,Delivery,Sunny,30.2,5.0,5.2,No Sugar,Toned,No
+CHAI1377,2026-04-29,Wednesday,15,Ahmedabad,Elaichi Chai,Medium,1,40,0,40.0,UPI,Tourist,Dine-in,Rainy,24.4,3.0,8.7,No Sugar,Toned,No
+CHAI1378,2026-03-22,Sunday,7,Ahmedabad,Lemon Tea,Small,2,30,0,60.0,UPI,Other,Dine-in,Cloudy,21.5,5.0,7.4,Less,Regular,Yes
+CHAI1379,2026-02-09,Monday,21,Delhi,Kesar Chai,Large,3,65,0,195.0,UPI,Student,Dine-in,Cloudy,20.2,5.0,5.7,Extra,Full Cream,Yes
+CHAI1380,2026-03-19,Thursday,9,Mumbai,Masala Chai,Medium,1,35,20,28.0,Card,Office Worker,Takeaway,Rainy,20.1,4.0,9.9,No Sugar,Regular,Yes
+CHAI1381,2026-05-04,Monday,17,Jaipur,Kulhad Chai,Small,1,35,0,35.0,UPI,Tourist,Dine-in,Rainy,18.1,3.0,8.4,Less,Toned,No
+CHAI1382,2026-01-08,Thursday,19,Indore,Adrak Chai,Small,2,25,0,50.0,Card,Tourist,Dine-in,Hot,40.7,4.0,4.6,No Sugar,Toned,Yes
+CHAI1383,2026-03-14,Saturday,12,Delhi,Elaichi Chai,Large,2,50,0,100.0,Card,Other,Delivery,Cold,15.0,5.0,4.7,Normal,No Milk,No
+CHAI1384,2026-02-24,Tuesday,19,Ahmedabad,Kesar Chai,Medium,2,55,0,110.0,UPI,Student,Takeaway,Cold,11.6,5.0,4.4,Extra,Regular,No
+CHAI1385,2026-03-14,Saturday,10,Udaipur,Chocolate Chai,Medium,1,60,15,51.0,UPI,Local,Dine-in,Cold,16.6,5.0,11.5,Normal,Toned,Yes
+CHAI1386,2026-06-22,Monday,8,Delhi,Chocolate Chai,Medium,1,60,15,51.0,UPI,Local,Dine-in,Hot,40.9,3.0,42.0,Less,Full Cream,Yes
+CHAI1387,2026-06-02,Tuesday,12,Udaipur,Kulhad Chai,Small,3,35,5,99.75,UPI,Other,Takeaway,Cold,12.8,4.0,8.8,Normal,Toned,No
+CHAI1388,2026-01-28,Wednesday,17,Mumbai,Adrak Chai,Small,2,25,0,50.0,UPI,Student,Delivery,Cold,8.3,4.0,6.6,Normal,Regular,Yes
+CHAI1389,2026-06-19,Friday,15,Udaipur,Chocolate Chai,Medium,1,60,10,54.0,UPI,Tourist,Takeaway,Hot,32.2,5.0,10.9,No Sugar,No Milk,No
+CHAI1390,2026-03-22,Sunday,14,Mumbai,Kulhad Chai,Medium,1,45,0,45.0,Cash,Tourist,Delivery,Cloudy,24.7,4.0,9.9,Extra,No Milk,No
+CHAI1391,2026-05-24,Sunday,19,Udaipur,Elaichi Chai,Medium,1,40,0,40.0,Cash,Local,Takeaway,Rainy,27.8,2.0,3.4,Normal,Full Cream,Yes
+CHAI1392,2026-06-10,Wednesday,10,Ahmedabad,Green Tea,Medium,1,50,5,47.5,UPI,Student,Takeaway,Cloudy,27.1,5.0,3.6,Normal,Regular,No
+CHAI1393,2026-02-13,Friday,16,Kota,Masala Chai,Medium,1,35,0,35.0,Cash,Local,Dine-in,Cold,8.2,4.0,5.9,No Sugar,No Milk,Yes
+CHAI1394,2026-06-26,Friday,10,Ahmedabad,Kesar Chai,Small,2,45,10,81.0,UPI,Tourist,Dine-in,Cold,13.0,5.0,11.3,Less,Full Cream,
+CHAI1395,2026-01-13,Tuesday,8,Pune,Lemon Tea,Large,1,50,0,50.0,Cash,Student,Takeaway,Hot,39.1,4.0,7.8,Extra,Toned,No
+CHAI1396,2026-01-20,Tuesday,14,Ahmedabad,Lemon Tea,Medium,1,40,0,40.0,UPI,Local,Dine-in,Hot,40.1,5.0,8.7,Less,No Milk,Yes
+CHAI1397,2026-06-19,Friday,14,Kota,Chocolate Chai,Small,2,50,0,100.0,Card,Student,Takeaway,Rainy,19.5,5.0,6.4,Extra,No Milk,No
+CHAI1398,2026-01-17,Saturday,13,Indore,Kesar Chai,Large,1,65,0,65.0,Cash,Tourist,Takeaway,Cloudy,22.6,2.0,10.2,Normal,No Milk,No
+CHAI1399,2026-05-24,Sunday,17,Pune,Kulhad Chai,Medium,3,45,5,128.25,UPI,Office Worker,Dine-in,Rainy,23.5,2.0,10.9,No Sugar,Regular,Yes
+CHAI1400,2026-03-22,Sunday,10,Kota,Lemon Tea,Large,3,50,10,135.0,Card,Student,Dine-in,Cloudy,21.2,5.0,9.1,Normal,No Milk,Yes
+CHAI1401,2026-03-02,Monday,9,Kota,Adrak Chai,Medium,1,35,0,35.0,Card,Office Worker,Delivery,Cloudy,21.2,4.0,6.7,No Sugar,No Milk,No
+CHAI1402,2026-06-29,Monday,20,Pune,Adrak Chai,Small,1,25,5,23.75,Wallet,Office Worker,Dine-in,Rainy,21.1,5.0,3.3,No Sugar,Toned,No
+CHAI1403,2026-05-22,Friday,20,Ahmedabad,Kulhad Chai,Small,4,35,0,140.0,Card,Student,Takeaway,Cloudy,24.9,5.0,13.4,Normal,Full Cream,Yes
+CHAI1404,2026-03-02,Monday,20,Udaipur,Lemon Tea,Small,3,30,10,81.0,Cash,Local,Takeaway,Rainy,18.8,4.0,11.0,Normal,No Milk,Yes
+CHAI1405,2026-02-11,Wednesday,17,Ahmedabad,Lemon Tea,Medium,1,40,5,38.0,UPI,Student,Takeaway,Cloudy,24.9,1.0,4.8,Normal,Full Cream,Yes
+CHAI1406,2026-01-29,Thursday,14,Mumbai,Elaichi Chai,Small,2,30,10,54.0,Card,Local,Takeaway,Rainy,22.8,4.0,9.9,Normal,Full Cream,Yes
+CHAI1407,2026-01-22,Thursday,21,Kota,Kulhad Chai,Medium,1,45,5,42.75,Card,Other,Dine-in,Sunny,30.7,4.0,3.8,Extra,Toned,No
+CHAI1408,2026-06-29,Monday,8,Indore,Elaichi Chai,Small,2,30,0,60.0,UPI,Tourist,Dine-in,Hot,32.2,5.0,12.1,Extra,Regular,Yes
+CHAI1409,2026-02-22,Sunday,20,Indore,Kesar Chai,Large,3,65,0,195.0,UPI,Local,Dine-in,Cold,10.1,5.0,10.9,Less,No Milk,Yes
+CHAI1410,2026-04-15,Wednesday,8,Pune,Elaichi Chai,Small,5,30,0,150.0,Cash,Office Worker,Dine-in,Cold,8.1,4.0,12.0,Less,No Milk,No
+CHAI1411,2026-06-02,Tuesday,16,Jaipur,Lemon Tea,Small,2,30,20,48.0,UPI,Office Worker,Takeaway,Rainy,27.4,4.0,10.4,No Sugar,Regular,No
+CHAI1412,2026-05-10,Sunday,11,Ahmedabad,Kulhad Chai,Small,1,35,0,35.0,UPI,Other,Dine-in,Cloudy,21.9,4.0,7.2,No Sugar,Full Cream,No
+CHAI1413,2026-02-06,Friday,11,Mumbai,Lemon Tea,Small,1,30,0,30.0,UPI,Tourist,Takeaway,Cold,17.0,5.0,11.3,Normal,No Milk,Yes
+CHAI1414,2026-03-22,Sunday,7,Udaipur,Chocolate Chai,Medium,1,60,0,60.0,UPI,Office Worker,Dine-in,Cloudy,25.2,4.0,4.0,Extra,Regular,No
+CHAI1415,2026-04-02,Thursday,9,Mumbai,Chocolate Chai,Medium,1,60,10,54.0,UPI,Student,Dine-in,Rainy,26.3,5.0,8.1,Less,Regular,Yes
+CHAI1416,2026-04-17,Friday,13,Delhi,Adrak Chai,Small,2,25,15,42.5,Card,Student,Dine-in,Sunny,28.5,3.0,6.6,No Sugar,Regular,No
+CHAI1417,2026-06-18,Thursday,12,Jaipur,Chocolate Chai,Medium,4,60,20,192.0,UPI,Student,Takeaway,Cold,17.5,5.0,12.3,Less,Toned,Yes
+CHAI1418,2026-06-14,Sunday,11,Delhi,Lemon Tea,Small,1,30,20,24.0,Cash,Other,Dine-in,Cold,9.8,5.0,3.8,Less,Toned,No
+CHAI1419,2026-04-14,Tuesday,21,Mumbai,Lemon Tea,Medium,4,40,0,160.0,UPI,Local,Takeaway,Rainy,24.8,5.0,12.6,Less,No Milk,No
+CHAI1420,2026-04-10,Friday,17,Delhi,Chocolate Chai,Small,2,50,0,100.0,Cash,Tourist,Takeaway,Cold,12.3,4.0,7.9,Less,Toned,No
+CHAI1421,2026-05-15,Friday,20,Udaipur,Adrak Chai,Small,1,25,0,25.0,UPI,Office Worker,Takeaway,Rainy,20.5,4.0,8.0,No Sugar,Regular,No
+CHAI1422,2026-04-16,Thursday,7,Indore,Adrak Chai,Medium,2,35,5,66.5,UPI,Other,Dine-in,Hot,33.4,3.0,5.3,Extra,Regular,Yes
+CHAI1423,2026-04-17,Friday,10,Udaipur,Lemon Tea,Small,2,30,10,54.0,Cash,Tourist,Dine-in,Cloudy,22.0,4.0,11.5,No Sugar,No Milk,Yes
+CHAI1424,2026-01-02,Friday,18,Udaipur,Kulhad Chai,Small,1,35,5,33.25,UPI,Local,Delivery,Hot,37.8,5.0,6.2,Extra,Full Cream,Yes
+CHAI1425,2026-02-02,Monday,14,Jaipur,Elaichi Chai,Small,1,30,5,28.5,Cash,Office Worker,Delivery,Cloudy,27.1,4.0,8.6,Less,Regular,No
+CHAI1426,2026-04-29,Wednesday,7,Mumbai,Elaichi Chai,Medium,1,40,5,38.0,Card,Local,Delivery,Cold,16.6,4.0,8.1,Extra,Regular,No
+CHAI1427,2026-01-03,Saturday,11,Kota,Adrak Chai,Medium,2,35,0,70.0,Card,Other,Takeaway,Hot,32.4,4.0,10.2,Extra,Toned,Yes
+CHAI1428,2026-05-16,Saturday,14,Delhi,Masala Chai,Medium,1,35,5,33.25,UPI,Local,Delivery,Sunny,31.5,4.0,6.9,Less,Full Cream,Yes
+CHAI1429,2026-05-01,Friday,18,Ahmedabad,Green Tea,Medium,2,50,20,80.0,Card,Local,Dine-in,Rainy,25.1,,9.8,Normal,No Milk,Yes
+CHAI1430,2026-06-09,Tuesday,8,Udaipur,Kesar Chai,Small,2,45,15,76.5,UPI,Office Worker,Dine-in,Cold,15.9,4.0,5.8,No Sugar,,No
+CHAI1431,2026-03-08,Sunday,10,Jaipur,Green Tea,Medium,1,50,0,50.0,Card,Tourist,Takeaway,Hot,33.4,4.0,6.1,Normal,Regular,No
+CHAI1432,2026-02-08,Sunday,16,Udaipur,Adrak Chai,Medium,4,35,15,119.0,Cash,Student,Delivery,Hot,41.4,5.0,5.5,No Sugar,Toned,Yes
+CHAI1433,2026-02-22,Sunday,9,Udaipur,Green Tea,Small,1,40,0,40.0,Cash,Local,Takeaway,Sunny,31.8,3.0,10.6,Extra,No Milk,Yes
+CHAI1434,2026-03-04,Wednesday,9,Delhi,Chocolate Chai,Small,2,50,0,100.0,UPI,Local,Dine-in,Cloudy,28.3,5.0,4.9,Extra,No Milk,No
+CHAI1435,2026-04-28,Tuesday,12,Jaipur,Green Tea,Large,1,60,20,48.0,Cash,Other,Delivery,Sunny,27.8,3.0,3.6,No Sugar,Toned,Yes
+CHAI1436,2026-06-11,Thursday,20,Indore,Lemon Tea,Medium,3,40,0,120.0,Cash,Tourist,Delivery,Sunny,27.4,5.0,10.7,Extra,Toned,No
+CHAI1437,2026-06-28,Sunday,12,Kota,Green Tea,Large,3,60,5,171.0,Cash,Tourist,Dine-in,Hot,36.7,5.0,9.1,Normal,Toned,Yes
+CHAI1438,2026-05-11,Monday,20,Mumbai,Lemon Tea,Medium,2,40,10,72.0,UPI,Other,Takeaway,Cloudy,28.5,5.0,4.7,No Sugar,Full Cream,No
+CHAI1439,2026-06-10,Wednesday,12,Delhi,Green Tea,Small,2,40,10,72.0,UPI,Other,Takeaway,Cold,,5.0,8.8,Less,Full Cream,No
+CHAI1440,2026-03-14,Saturday,14,Pune,Elaichi Chai,Medium,2,40,5,76.0,UPI,Other,Takeaway,Rainy,19.0,5.0,4.4,No Sugar,No Milk,Yes
+CHAI1441,2026-05-02,Saturday,16,Kota,Kesar Chai,Medium,1,55,0,55.0,Cash,Other,Takeaway,Rainy,23.0,4.0,11.4,Extra,No Milk,Yes
+CHAI1442,2026-02-06,Friday,15,Delhi,Elaichi Chai,Medium,1,40,20,32.0,Cash,Local,Takeaway,Cloudy,24.1,4.0,6.7,No Sugar,Full Cream,No
+CHAI1443,2026-01-11,Sunday,9,Ahmedabad,Elaichi Chai,Small,1,30,0,30.0,UPI,Local,Dine-in,Cloudy,28.6,5.0,5.7,Normal,Toned,Yes
+CHAI1444,2026-05-06,Wednesday,21,Jaipur,Masala Chai,Small,1,25,0,25.0,UPI,Other,Dine-in,Cold,11.4,5.0,10.5,Less,Toned,No
+CHAI1445,2026-04-26,Sunday,21,Delhi,Chocolate Chai,Small,15,50,0,100.0,Cash,Other,Dine-in,Cloudy,24.3,5.0,11.7,Normal,Regular,Yes
+CHAI1446,2026-01-07,Wednesday,16,Delhi,Lemon Tea,Medium,1,40,10,36.0,UPI,Other,Takeaway,Sunny,30.3,4.0,3.2,Less,Regular,No
+CHAI1447,2026-02-22,Sunday,16,Udaipur,Kesar Chai,Large,3,65,10,175.5,UPI,Other,Takeaway,Cold,8.4,2.0,8.3,Extra,Regular,No
+CHAI1448,2026-04-08,Wednesday,9,Mumbai,Lemon Tea,Small,5,30,0,150.0,UPI,Office Worker,Dine-in,Sunny,27.7,3.0,11.3,Normal,Toned,Yes
+CHAI1449,2026-01-15,Thursday,7,Kota,Lemon Tea,Medium,1,40,10,36.0,Card,Tourist,Dine-in,Sunny,26.4,4.0,7.4,Extra,Regular,No
+CHAI1450,2026-01-16,Friday,11,Udaipur,Green Tea,Medium,1,50,5,47.5,UPI,Office Worker,Delivery,Sunny,30.6,3.0,9.9,Less,Full Cream,No
+CHAI1451,2026-04-25,Saturday,13,Mumbai,Adrak Chai,Large,2,45,0,90.0,UPI,Office Worker,Takeaway,Hot,43.5,2.0,11.0,Normal,Toned,Yes
+CHAI1452,2026-01-16,Friday,11,Kota,Chocolate Chai,Small,1,50,10,45.0,Wallet,Office Worker,Takeaway,Hot,32.5,4.0,5.7,Extra,Regular,Yes
+CHAI1453,2026-05-23,Saturday,11,Ahmedabad,Lemon Tea,Large,1,50,20,40.0,Card,Tourist,Takeaway,Cold,10.5,4.0,7.1,Normal,Regular,Yes
+CHAI1454,2026-06-15,Monday,19,Jaipur,Masala Chai,Medium,1,35,0,35.0,Cash,Local,Takeaway,Cold,11.9,5.0,8.9,No Sugar,No Milk,Yes
+CHAI1455,2026-04-01,Wednesday,21,Mumbai,Kulhad Chai,Large,1,55,0,55.0,Card,Student,Dine-in,Rainy,19.9,5.0,9.8,Normal,Toned,Yes
+CHAI1456,2026-06-07,Sunday,10,Udaipur,Lemon Tea,Large,1,50,20,40.0,Wallet,Student,Dine-in,Hot,32.1,5.0,4.0,Normal,No Milk,Yes
+CHAI1457,2026-05-22,Friday,11,Mumbai,Kesar Chai,Medium,2,55,10,99.0,UPI,Office Worker,Takeaway,Cloudy,30.3,5.0,10.3,Normal,Toned,
+CHAI1458,2026-06-27,Saturday,13,Jaipur,Lemon Tea,Medium,3,40,0,120.0,Card,Student,Delivery,Rainy,26.4,3.0,9.1,Extra,Full Cream,Yes
+CHAI1459,2026-02-27,Friday,21,Udaipur,Masala Chai,Small,1,25,0,25.0,UPI,Local,Dine-in,Sunny,30.9,5.0,11.8,Extra,Regular,Yes
+CHAI1460,2026-02-20,Friday,19,Delhi,Elaichi Chai,Small,1,30,0,30.0,UPI,Local,Takeaway,Hot,39.5,4.0,4.0,Less,Full Cream,Yes
+CHAI1461,2026-03-27,Friday,7,Udaipur,Kesar Chai,Large,2,65,0,130.0,Cash,Local,Takeaway,Sunny,35.0,5.0,9.9,Less,Regular,No
+CHAI1462,2026-01-15,Thursday,13,Delhi,Lemon Tea,Medium,1,40,10,36.0,Cash,Other,Dine-in,Cold,9.0,4.0,8.4,No Sugar,No Milk,No
+CHAI1463,2026-04-29,Wednesday,16,Ahmedabad,Kulhad Chai,Large,2,55,0,110.0,cash,Student,Takeaway,Rainy,19.9,4.0,4.3,Less,Toned,No
+CHAI1464,2026-04-01,Wednesday,16,Mumbai,Kulhad Chai,Medium,2,45,20,72.0,UPI,Student,Dine-in,Rainy,22.4,5.0,6.5,Less,Toned,No
+CHAI1465,2026-03-21,Saturday,20,Mumbai,Green Tea,Small,5,40,0,200.0,UPI,Other,Takeaway,Hot,32.7,5.0,11.6,Less,Regular,No
+CHAI1466,2026-02-18,Wednesday,11,Ahmedabad,Chocolate Chai,Medium,5,60,0,300.0,Card,Other,Delivery,Hot,37.0,4.0,12.9,No Sugar,No Milk,Yes
+CHAI1467,2026-01-01,Thursday,10,Pune,Kesar Chai,Medium,1,55,10,49.5,UPI,Tourist,Takeaway,Cold,12.0,1.0,3.1,Normal,Regular,Yes
+CHAI1468,2026-02-06,Friday,9,Ahmedabad,Lemon Tea,Medium,2,40,0,80.0,UPI,Student,Dine-in,Rainy,20.2,3.0,11.3,Less,Toned,Yes
+CHAI1469,2026-01-06,Tuesday,12,Jaipur,Elaichi Chai,Large,4,50,0,200.0,Card,Office Worker,Dine-in,Sunny,35.2,4.0,12.4,Less,No Milk,Yes
+CHAI1470,2026-01-31,Saturday,16,Pune,Elaichi Chai,Large,1,50,5,47.5,UPI,Local,Takeaway,Rainy,22.3,5.0,9.9,Less,Full Cream,Yes
+CHAI1471,2026-03-25,Wednesday,18,Mumbai,Kesar Chai,Small,3,45,0,135.0,Card,Other,Delivery,Cloudy,20.9,5.0,5.0,Extra,Full Cream,No
+CHAI1472,2026-05-13,Wednesday,13,Udaipur,Chocolate Chai,Small,2,50,10,90.0,Cash,Local,Takeaway,Hot,39.7,5.0,5.6,Less,No Milk,Yes
+CHAI1473,2026-04-12,Sunday,9,Mumbai,Kesar Chai,Small,3,45,0,135.0,Card,Tourist,Dine-in,Sunny,33.0,4.0,,No Sugar,No Milk,No
+CHAI1474,2026-04-20,Monday,10,Udaipur,Chocolate Chai,Medium,1,60,0,60.0,UPI,Local,Dine-in,Cold,10.7,5.0,5.7,No Sugar,Full Cream,Yes
+CHAI1475,2026-01-26,Monday,10,Pune,Adrak Chai,Small,1,25,20,20.0,UPI,Tourist,Dine-in,Rainy,25.1,5.0,9.8,Normal,Regular,No
+CHAI1476,2026-03-14,Saturday,19,Kota,Green Tea,Medium,1,50,10,45.0,Card,Student,Takeaway,Hot,43.4,4.0,9.5,Less,No Milk,Yes
+CHAI1477,2026-05-13,Wednesday,10,Delhi,Chocolate Chai,Medium,1,60,10,54.0,UPI,Office Worker,Takeaway,Cold,12.4,2.0,4.3,Less,Full Cream,Yes
+CHAI1478,2026-05-08,Friday,7,Kota,Green Tea,Small,1,40,0,40.0,Cash,Other,Dine-in,Hot,38.8,3.0,11.8,Normal,No Milk,
+CHAI1479,2026-02-22,Sunday,8,Udaipur,Kulhad Chai,Small,1,35,5,33.25,UPI,Other,Delivery,Rainy,19.7,3.0,10.4,Extra,Regular,Yes
+CHAI1480,2026-02-20,Friday,12,Pune,Adrak Chai,Large,1,45,0,45.0,UPI,Other,Dine-in,Sunny,30.2,5.0,6.7,Less,Regular,Yes
+CHAI1481,2026-05-18,Monday,9,Pune,Kulhad Chai,Medium,1,45,15,38.25,UPI,Office Worker,Dine-in,Cold,14.0,4.0,7.5,Extra,Full Cream,Yes
+CHAI1482,2026-01-02,Friday,14,Pune,Elaichi Chai,Medium,3,40,10,108.0,Cash,Other,Delivery,Cold,13.8,4.0,12.3,Extra,Full Cream,No
+CHAI1483,2026-04-11,Saturday,13,Kota,Elaichi Chai,Medium,1,40,0,40.0,UPI,Office Worker,Takeaway,Sunny,32.4,5.0,4.4,Normal,Regular,Yes
+CHAI1484,2026-05-07,Thursday,13,Ahmedabad,Kulhad Chai,Large,2,55,0,110.0,UPI,Student,Takeaway,Rainy,22.5,4.0,7.9,No Sugar,No Milk,No
+CHAI1485,2026-03-29,Sunday,14,Jaipur,Kulhad Chai,Large,1,55,0,55.0,UPI,Office Worker,Dine-in,Cold,12.6,5.0,9.4,Extra,Toned,No
+CHAI1486,2026-03-13,Friday,9,Delhi,Elaichi Chai,Small,1,30,10,27.0,UPI,Student,Takeaway,Cold,8.8,5.0,4.4,Normal,Toned,Yes
+CHAI1487,2026-01-09,Friday,7,Delhi,Kesar Chai,Medium,1,55,0,55.0,UPI,Tourist,Takeaway,Hot,32.6,4.0,5.2,Less,Toned,Yes
+CHAI1488,2026-01-05,Monday,19,Pune,Kulhad Chai,Small,1,35,5,33.25,Cash,Student,Dine-in,Sunny,34.0,5.0,3.4,No Sugar,Full Cream,No
+CHAI1489,2026-05-24,Sunday,12,Kota,Kesar Chai,Medium,4,55,0,220.0,Card,Student,Dine-in,Sunny,27.9,5.0,5.2,Less,No Milk,Yes
+CHAI1490,2026-01-17,Saturday,14,Delhi,Lemon Tea,Medium,1,40,0,40.0,Card,Local,Dine-in,Hot,43.8,4.0,11.9,Less,Full Cream,Yes
+CHAI1491,2026-06-03,Wednesday,8,Mumbai,Green Tea,Large,2,60,5,114.0,UPI,Tourist,Delivery,Cold,11.4,4.0,7.1,Less,Regular,Yes
+CHAI1492,2026-01-06,Tuesday,11,Pune,Adrak Chai,Small,2,25,0,50.0,Cash,Student,Dine-in,Cold,10.0,5.0,5.8,Extra,Full Cream,Yes
+CHAI1493,2026-03-13,Friday,20,Kota,Green Tea,Medium,2,50,0,100.0,Cash,Tourist,Takeaway,Cloudy,28.1,4.0,4.2,Less,Toned,No
+CHAI1494,2026-05-14,Thursday,17,Delhi,Green Tea,Small,2,40,15,68.0,Card,Student,Delivery,Sunny,35.9,3.0,5.3,Less,Toned,Yes
+CHAI1495,2026-04-20,Monday,16,Pune,Chocolate Chai,Small,2,50,5,95.0,UPI,Other,Dine-in,Rainy,22.5,4.0,10.7,No Sugar,Full Cream,No
+CHAI1496,2026-04-07,Tuesday,13,Kota,Elaichi Chai,Medium,1,40,10,36.0,Cash,Local,Dine-in,Cold,16.5,5.0,8.4,Less,Toned,No
+CHAI1497,2026-04-08,Wednesday,9,Udaipur,Chocolate Chai,Small,1,50,0,50.0,UPI,Office Worker,Takeaway,Cloudy,30.1,5.0,9.6,Normal,No Milk,No
+CHAI1498,2026-04-17,Friday,21,Udaipur,Kulhad Chai,Large,1,55,15,46.75,UPI,Other,Dine-in,Sunny,25.5,3.0,9.9,Normal,Full Cream,No
+CHAI1499,2026-06-12,Friday,17,Kota,Green Tea,Medium,2,50,0,100.0,Cash,Office Worker,Takeaway,Rainy,25.1,5.0,5.0,Extra,Toned,No
+CHAI1500,2026-03-05,Thursday,15,Kota,Elaichi Chai,Small,2,30,15,51.0,UPI,Other,Delivery,Sunny,34.9,3.0,7.5,Normal,No Milk,No
+CHAI1501,2026-04-16,Thursday,18,Ahmedabad,Adrak Chai,Small,2,25,20,40.0,Card,Tourist,Takeaway,Cold,11.1,5.0,3.7,No Sugar,No Milk,No
+CHAI1502,2026-06-17,Wednesday,15,Ahmedabad,Lemon Tea,Medium,1,40,0,40.0,UPI,Office Worker,Dine-in,Cloudy,30.4,5.0,4.7,No Sugar,Toned,Yes
+CHAI1503,2026-03-08,Sunday,13,Delhi,Kulhad Chai,Medium,4,45,0,180.0,Card,Office Worker,Dine-in,Sunny,25.5,2.0,7.2,Extra,Regular,Yes
+CHAI1504,2026-01-16,Friday,16,Jaipur,Lemon Tea,Medium,1,40,20,32.0,UPI,Other,Takeaway,Cold,13.2,4.0,7.4,Normal,No Milk,No
+CHAI1505,2026-04-05,Sunday,20,Ahmedabad,Green Tea,Large,3,60,0,180.0,Cash,Local,Takeaway,Rainy,21.3,4.0,10.7,Less,Regular,Yes
+CHAI1506,2026-05-16,Saturday,15,Pune,Lemon Tea,Large,2,50,0,100.0,UPI,Other,Takeaway,Cold,12.1,5.0,12.3,Normal,Regular,No
+CHAI1507,2026-01-12,Monday,13,Udaipur,Green Tea,Medium,1,50,15,42.5,UPI,Other,Takeaway,Rainy,27.4,4.0,8.9,No Sugar,No Milk,No
+CHAI1508,2026-06-05,Friday,20,Jaipur,Kesar Chai,Medium,3,55,15,140.25,UPI,Student,Dine-in,Hot,37.6,5.0,8.7,Less,Toned,Yes
+CHAI1509,2026-02-13,Friday,10,Jaipur,Adrak Chai,Small,5,25,5,118.75,UPI,Tourist,Delivery,Rainy,25.2,5.0,11.8,Less,No Milk,Yes
+CHAI1510,2026-06-27,Saturday,17,Delhi,Green Tea,Large,4,60,0,240.0,Cash,Local,Delivery,Cold,14.4,5.0,12.4,Less,Full Cream,Yes
+CHAI1511,2026-03-16,Monday,20,Pune,Adrak Chai,Small,1,25,0,25.0,Cash,Student,Takeaway,Cloudy,23.4,5.0,5.8,Less,No Milk,No
+CHAI1512,2026-03-23,Monday,13,Mumbai,Green Tea,Medium,4,50,10,180.0,UPI,Other,Takeaway,Sunny,24.1,4.0,12.4,Normal,Toned,No
+CHAI1513,2026-06-24,Wednesday,11,Jaipur,Chocolate Chai,Small,1,50,5,47.5,Cash,Tourist,Takeaway,Sunny,36.0,4.0,10.5,Extra,Full Cream,No
+CHAI1514,2026-01-16,Friday,20,Pune,Green Tea,Small,2,40,0,80.0,Cash,Student,Delivery,Cloudy,25.4,5.0,9.6,Less,Regular,No
+CHAI1515,2026-03-28,Saturday,18,Kota,Kulhad Chai,Medium,5,45,5,213.75,UPI,Other,Takeaway,Rainy,27.2,4.0,6.7,Normal,Regular,No
+CHAI1516,2026-04-28,Tuesday,18,Udaipur,Elaichi Chai,Medium,1,40,0,40.0,UPI,Office Worker,Dine-in,Cloudy,27.2,5.0,3.9,Less,No Milk,No
+CHAI1517,2026-06-23,Tuesday,17,Udaipur,Elaichi Chai,Large,1,50,0,50.0,UPI,Student,Dine-in,Hot,36.1,,9.5,Less,Regular,Yes
+CHAI1518,2026-03-03,Tuesday,19,Mumbai,Kulhad Chai,Medium,2,45,10,81.0,Cash,Local,Takeaway,Sunny,29.6,4.0,9.4,Extra,Full Cream,Yes
+CHAI1519,2026-01-31,Saturday,11,Pune,Adrak Chai,Small,2,25,0,50.0,UPI,Other,Delivery,Cold,14.9,4.0,7.2,Extra,Full Cream,Yes
+CHAI1520,2026-01-26,Monday,19,Mumbai,Green Tea,Small,3,40,0,120.0,UPI,Student,Dine-in,Hot,41.7,4.0,9.7,No Sugar,Toned,Yes
+CHAI1521,2026-02-16,Monday,8,Ahmedabad,Elaichi Chai,Small,1,30,10,27.0,UPI,Office Worker,Takeaway,Cloudy,26.2,2.0,11.8,Normal,Full Cream,Yes
+CHAI1522,2026-04-19,Sunday,18,Indore,Masala Chai,Small,1,25,15,21.25,Cash,Local,Dine-in,Cold,11.1,5.0,8.5,Less,Regular,Yes
+CHAI1523,2026-03-02,Monday,12,Pune,Masala Chai,Small,1,25,10,22.5,Wallet,Other,Takeaway,Hot,35.3,4.0,7.9,Normal,No Milk,Yes
+CHAI1524,2026-04-13,Monday,17,Kota,Chocolate Chai,Small,1,50,20,40.0,Card,Office Worker,Takeaway,Sunny,32.8,5.0,4.7,Normal,Toned,No
+CHAI1525,2026-02-09,Monday,15,Jaipur,Green Tea,Large,1,60,0,60.0,Wallet,Office Worker,Dine-in,Sunny,25.3,2.0,8.8,Normal,Full Cream,No
+CHAI1526,2026-02-07,Saturday,9,Pune,Kesar Chai,Small,1,45,15,38.25,UPI,Student,Takeaway,Sunny,30.3,4.0,10.3,No Sugar,Full Cream,No
+CHAI1527,2026-05-22,Friday,15,Mumbai,Lemon Tea,Medium,3,40,10,108.0,UPI,Local,Dine-in,Hot,,4.0,5.5,No Sugar,Toned,Yes
+CHAI1528,2026-02-06,Friday,18,Ahmedabad,Kulhad Chai,Medium,1,45,0,45.0,Cash,Office Worker,Takeaway,Cold,12.6,4.0,7.2,Normal,Full Cream,No
+CHAI1529,2026-05-14,Thursday,8,Indore,Kesar Chai,Small,3,45,15,114.75,UPI,Tourist,Delivery,Sunny,32.8,3.0,4.9,Normal,No Milk,Yes
+CHAI1530,2026-04-19,Sunday,18,Delhi,Elaichi Chai,Medium,2,40,0,80.0,UPI,Other,Dine-in,Sunny,29.1,4.0,12.6,No Sugar,No Milk,Yes
+CHAI1531,2026-06-22,Monday,9,Mumbai,Kesar Chai,Small,1,45,0,45.0,UPI,Student,Takeaway,Cold,11.7,5.0,5.2,No Sugar,Full Cream,No
+CHAI1532,2026-05-04,Monday,20,Kota,Lemon Tea,Small,1,30,15,25.5,UPI,Tourist,Delivery,Hot,42.7,5.0,10.6,No Sugar,Full Cream,Yes
+CHAI1533,2026-06-07,Sunday,8,Jaipur,Chocolate Chai,Small,1,50,0,50.0,UPI,Office Worker,Dine-in,Sunny,29.2,4.0,11.1,Extra,Regular,No
+CHAI1534,2026-01-02,Friday,15,Udaipur,Elaichi Chai,Medium,1,40,0,40.0,UPI,Tourist,Dine-in,Cloudy,28.9,4.0,10.6,Less,Toned,No
+CHAI1535,2026-04-22,Wednesday,13,Pune,Masala Chai,Medium,3,35,15,89.25,UPI,Tourist,Dine-in,Cold,15.4,3.0,6.2,Extra,Full Cream,Yes
+CHAI1536,2026-04-18,Saturday,9,Mumbai,Chocolate Chai,Medium,3,60,0,180.0,UPI,Local,Takeaway,Cold,9.1,2.0,5.8,No Sugar,Toned,Yes
+CHAI1537,2026-06-23,Tuesday,19,Jaipur,Green Tea,Medium,2,50,5,95.0,UPI,Tourist,Dine-in,Sunny,29.1,5.0,5.4,Normal,Regular,No
+CHAI1538,2026-06-29,Monday,16,Udaipur,Kesar Chai,Medium,1,55,20,44.0,Cash,Student,Takeaway,Hot,34.2,4.0,8.7,Less,Regular,Yes
+CHAI1539,2026-04-13,Monday,13,Mumbai,Masala Chai,Small,1,25,0,25.0,UPI,Other,Dine-in,Sunny,28.9,5.0,5.1,Normal,No Milk,No
+CHAI1540,2026-01-16,Friday,12,Indore,Kulhad Chai,Medium,1,45,0,45.0,UPI,Tourist,Takeaway,Cloudy,29.8,1.0,8.9,Normal,Toned,No
+CHAI1541,2026-05-01,Friday,8,Mumbai,Lemon Tea,Large,1,50,0,50.0,UPI,Local,Dine-in,Rainy,19.0,4.0,10.8,Normal,Full Cream,No
+CHAI1542,2026-05-31,Sunday,8,Kota,Green Tea,Small,1,40,20,32.0,UPI,Student,Dine-in,Hot,32.5,5.0,10.4,Less,No Milk,Yes
+CHAI1543,2026-01-20,Tuesday,13,Pune,Green Tea,Small,1,40,0,40.0,Cash,Office Worker,Dine-in,Cloudy,26.1,5.0,10.7,Normal,Full Cream,No
+CHAI1544,2026-06-11,Thursday,16,Kota,Adrak Chai,Large,1,45,20,36.0,Cash,Other,Takeaway,Cloudy,23.0,4.0,11.6,No Sugar,Toned,No
+CHAI1545,2026-05-07,Thursday,10,Kota,Adrak Chai,Small,2,25,0,50.0,Cash,Local,Dine-in,Rainy,19.8,4.0,10.0,Extra,Full Cream,No
+CHAI1546,2026-02-26,Thursday,17,Mumbai,Lemon Tea,Medium,2,40,15,68.0,UPI,Other,Dine-in,Sunny,25.8,5.0,6.1,No Sugar,Toned,Yes
+CHAI1547,2026-05-17,Sunday,13,Ahmedabad,Adrak Chai,Small,1,25,0,25.0,UPI,Other,Dine-in,Cloudy,29.9,5.0,8.6,No Sugar,Full Cream,Yes
+CHAI1548,2026-03-13,Friday,20,Delhi,Elaichi Chai,Small,1,30,5,28.5,Cash,Local,Delivery,Rainy,24.3,4.0,7.0,Normal,Full Cream,Yes
+CHAI1549,2026-05-29,Friday,14,Kota,Kulhad Chai,Small,1,35,10,31.5,UPI,Local,Dine-in,Cloudy,22.0,3.0,7.4,Less,Full Cream,Yes
+CHAI1550,2026-03-21,Saturday,21,Pune,Elaichi Chai,Large,3,50,0,150.0,UPI,Student,Takeaway,Cold,14.5,5.0,5.6,No Sugar,Regular,No
+CHAI1551,2026-04-09,Thursday,7,Jaipur,Masala Chai,Small,1,25,0,25.0,UPI,Student,Dine-in,Hot,41.5,5.0,,Normal,Regular,Yes
+CHAI1552,2026-02-05,Thursday,15,Mumbai,Chocolate Chai,Medium,3,60,5,171.0,UPI,Local,Dine-in,Sunny,32.3,3.0,11.8,No Sugar,Full Cream,Yes
+CHAI1553,2026-05-11,Monday,10,Jaipur,Kulhad Chai,Small,4,35,5,133.0,UPI,Local,Dine-in,Rainy,27.2,5.0,11.5,No Sugar,No Milk,Yes
+CHAI1554,2026-01-29,Thursday,21,Ahmedabad,Kesar Chai,Small,4,45,0,180.0,UPI,Tourist,Dine-in,Sunny,24.5,4.0,8.1,Less,No Milk,Yes
+CHAI1555,2026-06-20,Saturday,19,Delhi,Lemon Tea,Medium,1,40,10,36.0,UPI,Local,Takeaway,Rainy,27.1,5.0,10.8,Less,Toned,No
+CHAI1556,2026-02-07,Saturday,9,Udaipur,Kulhad Chai,Medium,3,45,20,108.0,Card,Student,Takeaway,Rainy,18.9,3.0,7.9,Normal,No Milk,No
+CHAI1557,2026-05-04,Monday,14,Mumbai,Kulhad Chai,Medium,2,45,0,90.0,Card,Office Worker,Dine-in,Hot,38.5,4.0,5.8,No Sugar,No Milk,Yes
+CHAI1558,2026-06-29,Monday,7,Jaipur,Adrak Chai,Small,1,25,0,25.0,UPI,Local,Delivery,Sunny,34.9,5.0,10.0,Less,Full Cream,No
+CHAI1559,2026-02-06,Friday,13,Jaipur,Kulhad Chai,Small,3,35,5,99.75,Cash,Student,Delivery,Cloudy,28.1,4.0,4.9,No Sugar,Regular,No
+CHAI1560,2026-06-02,Tuesday,9,Delhi,Elaichi Chai,Small,1,30,0,30.0,UPI,Student,Takeaway,Cold,15.7,3.0,7.7,Normal,No Milk,No
+CHAI1561,2026-03-28,Saturday,16,Indore,Chocolate Chai,Medium,2,60,0,120.0,UPI,Student,Delivery,Sunny,,1.0,11.2,Extra,Full Cream,No
+CHAI1562,2026-02-28,Saturday,16,Delhi,Kulhad Chai,Large,1,55,0,55.0,Cash,Office Worker,Takeaway,Cold,8.6,5.0,11.8,No Sugar,No Milk,No
+CHAI1563,2026-03-22,Sunday,8,Ahmedabad,Kulhad Chai,Large,1,55,10,49.5,Cash,Office Worker,Dine-in,Sunny,28.4,4.0,5.2,Less,Regular,Yes
+CHAI1564,2026-02-24,Tuesday,16,Pune,Masala Chai,Medium,1,35,0,35.0,Cash,Student,Dine-in,Sunny,30.8,5.0,3.4,Normal,Regular,No
+CHAI1565,2026-01-03,Saturday,18,Pune,Green Tea,Medium,4,50,0,200.0,UPI,Local,Takeaway,Cloudy,27.4,5.0,,Less,Regular,No
+CHAI1566,2026-05-03,Sunday,21,Udaipur,Masala Chai,Small,1,25,5,23.75,UPI,Student,Delivery,Cloudy,22.4,3.0,9.5,Normal,No Milk,Yes
+CHAI1567,2026-03-28,Saturday,16,Kota,Lemon Tea,Medium,3,40,0,120.0,UPI,Local,Dine-in,Hot,32.9,5.0,8.9,No Sugar,Toned,No
+CHAI1568,2026-05-21,Thursday,12,Mumbai,Adrak Chai,Medium,1,35,0,35.0,Card,Office Worker,Dine-in,Hot,36.2,5.0,7.1,Extra,Full Cream,No
+CHAI1569,2026-06-16,Tuesday,21,Udaipur,Elaichi Chai,Large,5,50,0,250.0,UPI,Tourist,Dine-in,Hot,52.0,4.0,11.4,Normal,Full Cream,Yes
+CHAI1570,2026-06-24,Wednesday,18,Jaipur,Kulhad Chai,Medium,1,45,0,45.0,Cash,Student,Takeaway,Cloudy,29.0,5.0,5.6,Less,No Milk,Yes
+CHAI1571,2026-02-27,Friday,8,Ahmedabad,Kulhad Chai,Large,2,55,10,99.0,UPI,Other,Delivery,Cold,8.9,5.0,12.0,Extra,Toned,No
+CHAI1572,2026-03-26,Thursday,7,Udaipur,Adrak Chai,Small,5,25,15,106.25,UPI,Local,Dine-in,Cold,13.5,3.0,7.7,No Sugar,No Milk,Yes
+CHAI1573,2026-04-03,Friday,8,Pune,Kulhad Chai,Large,1,55,0,55.0,Card,Local,Dine-in,Cloudy,21.6,3.0,10.9,Extra,No Milk,Yes
+CHAI1574,2026-06-21,Sunday,13,Kota,Lemon Tea,Small,1,30,0,30.0,UPI,Tourist,Dine-in,Rainy,22.8,5.0,11.7,Extra,Full Cream,No
+CHAI1575,2026-01-03,Saturday,21,Mumbai,Kesar Chai,Small,2,45,10,81.0,UPI,Tourist,Dine-in,Cold,9.5,3.0,12.4,Extra,Full Cream,Yes
+CHAI1576,2026-04-26,Sunday,19,Delhi,Elaichi Chai,Medium,2,40,0,80.0,UPI,Office Worker,Takeaway,Hot,34.0,4.0,12.3,No Sugar,Full Cream,No
+CHAI1577,2026-01-05,Monday,12,Delhi,Lemon Tea,Large,2,50,0,100.0,Cash,Local,Dine-in,Rainy,26.3,5.0,6.7,Less,No Milk,No
+CHAI1578,2026-04-06,Monday,21,Kota,Elaichi Chai,Medium,1,40,0,40.0,UPI,Local,Takeaway,Hot,42.9,3.0,10.5,No Sugar,Regular,No
+CHAI1579,2026-01-27,Tuesday,17,Delhi,Chocolate Chai,Medium,2,60,0,120.0,Cash,Other,Takeaway,Sunny,27.5,4.0,7.8,Extra,Regular,Yes
+CHAI1580,2026-05-01,Friday,19,Udaipur,Adrak Chai,Medium,3,35,0,105.0,UPI,Local,Dine-in,Rainy,20.2,5.0,6.8,Extra,Toned,Yes
+CHAI1581,2026-04-17,Friday,12,Ahmedabad,Masala Chai,Small,1,25,20,20.0,Card,Other,Delivery,Hot,36.0,5.0,5.2,Extra,Toned,No
+CHAI1582,2026-01-14,Wednesday,10,Mumbai,Kulhad Chai,Small,2,35,10,63.0,UPI,Tourist,Takeaway,Cold,9.0,4.0,9.4,Extra,Full Cream,Yes
+CHAI1583,2026-03-24,Tuesday,18,Jaipur,Kesar Chai,Small,1,45,20,36.0,Cash,Other,Dine-in,Hot,38.5,4.0,3.2,Less,No Milk,No
+CHAI1584,2026-02-17,Tuesday,19,Pune,Kesar Chai,Medium,1,55,0,55.0,Cash,Office Worker,Takeaway,Cold,10.6,3.0,4.3,No Sugar,Regular,Yes
+CHAI1585,2026-04-28,Tuesday,13,Mumbai,Adrak Chai,Small,1,25,10,22.5,UPI,Local,Delivery,Cloudy,21.1,4.0,7.4,No Sugar,Toned,No
+CHAI1586,2026-04-07,Tuesday,17,Mumbai,Green Tea,Medium,1,50,0,50.0,UPI,Student,Delivery,Hot,39.3,5.0,11.9,Extra,Regular,Yes
+CHAI1587,2026-05-14,Thursday,10,Jaipur,Lemon Tea,Large,1,50,0,50.0,Cash,Other,Takeaway,Cloudy,29.5,4.0,5.9,Less,Regular,Yes
+CHAI1588,2026-03-10,Tuesday,13,Ahmedabad,Lemon Tea,Medium,4,40,0,160.0,Cash,Tourist,Takeaway,Cold,13.1,3.0,6.7,Normal,No Milk,Yes
+CHAI1589,2026-05-30,Saturday,20,Udaipur,Lemon Tea,Small,1,30,0,30.0,UPI,Local,Takeaway,Rainy,21.2,4.0,4.8,Normal,Full Cream,Yes
+CHAI1590,2026-04-26,Sunday,12,Indore,Elaichi Chai,Large,4,50,0,200.0,Cash,Tourist,Takeaway,Hot,36.8,5.0,9.0,Less,Full Cream,Yes
+CHAI1591,2026-01-19,Monday,10,Ahmedabad,Kesar Chai,Medium,1,55,10,49.5,UPI,Tourist,Takeaway,Rainy,22.7,5.0,8.1,Extra,Full Cream,Yes
+CHAI1592,2026-05-15,Friday,12,Delhi,Kesar Chai,Small,1,45,0,45.0,Cash,Local,Takeaway,Cold,16.1,2.0,7.4,No Sugar,Full Cream,No
+CHAI1593,2026-01-31,Saturday,7,Kota,Adrak Chai,Medium,2,35,0,70.0,UPI,Student,Dine-in,Hot,42.9,5.0,7.3,No Sugar,Full Cream,Yes
+CHAI1594,2026-01-18,Sunday,19,Indore,Chocolate Chai,Small,3,50,5,142.5,UPI,Tourist,Dine-in,Hot,35.8,4.0,10.7,Extra,No Milk,Yes
+CHAI1595,2026-04-06,Monday,10,Jaipur,Adrak Chai,Small,1,25,0,25.0,UPI,Tourist,Delivery,Cold,9.7,5.0,6.3,No Sugar,Regular,No
+CHAI1596,2026-01-12,Monday,11,Indore,Adrak Chai,Small,1,25,15,21.25,UPI,Other,Takeaway,Cold,15.0,4.0,4.1,Normal,Toned,No
+CHAI1597,2026-06-13,Saturday,19,Pune,Chocolate Chai,Medium,2,60,0,120.0,Cash,Local,Delivery,Rainy,25.3,4.0,6.4,No Sugar,Full Cream,Yes
+CHAI1598,2026-06-18,Thursday,20,Udaipur,Kesar Chai,Medium,1,55,0,55.0,UPI,Student,Takeaway,Cold,11.9,4.0,10.3,Normal,Full Cream,No
+CHAI1599,2026-06-17,Wednesday,20,Mumbai,Elaichi Chai,Large,1,50,0,50.0,UPI,Tourist,Dine-in,Cold,14.2,4.0,3.6,Extra,Toned,No
+CHAI1600,2026-05-28,Thursday,14,Delhi,Adrak Chai,Small,3,25,0,75.0,UPI,Local,Dine-in,Sunny,31.9,4.0,12.7,No Sugar,Full Cream,No
+CHAI1601,2026-02-24,Tuesday,17,Ahmedabad,Elaichi Chai,Medium,1,40,15,34.0,UPI,Tourist,Dine-in,Sunny,28.6,3.0,4.7,Less,Full Cream,No
+CHAI1602,2026-05-13,Wednesday,16,Pune,Kulhad Chai,Small,1,35,0,35.0,Wallet,Office Worker,Dine-in,Sunny,27.2,3.0,5.0,Extra,No Milk,No
+CHAI1603,2026-01-26,Monday,17,Indore,Kesar Chai,Medium,3,55,5,156.75,UPI,Office Worker,Takeaway,Rainy,20.9,5.0,5.2,Extra,Full Cream,Yes
+CHAI1604,2026-02-13,Friday,13,Ahmedabad,Green Tea,Medium,1,50,0,50.0,Card,Office Worker,Delivery,Cold,11.3,4.0,3.7,No Sugar,Full Cream,No
+CHAI1605,2026-05-30,Saturday,20,Delhi,Masala Chai,Medium,1,35,0,35.0,UPI,Student,Takeaway,Rainy,20.3,5.0,10.0,No Sugar,Full Cream,No
+CHAI1606,2026-04-26,Sunday,20,Indore,Chocolate Chai,Medium,5,60,5,285.0,Cash,Tourist,Dine-in,Sunny,28.2,5.0,12.8,Extra,Regular,No
+CHAI1607,2026-06-25,Thursday,10,Pune,Masala Chai,Small,1,25,5,23.75,Cash,Office Worker,Dine-in,Sunny,30.9,4.0,4.9,No Sugar,Toned,No
+CHAI1608,2026-06-13,Saturday,21,Udaipur,Adrak Chai,Large,3,45,5,128.25,Wallet,Other,Dine-in,Rainy,21.3,,6.9,Less,Regular,No
+CHAI1609,2026-06-06,Saturday,14,Ahmedabad,Adrak Chai,Medium,1,35,0,35.0,UPI,Student,Takeaway,Cloudy,27.5,4.0,8.0,Less,Full Cream,No
+CHAI1610,2026-03-15,Sunday,11,Jaipur,Adrak Chai,Medium,1,35,0,35.0,UPI,Other,Dine-in,Cold,8.1,5.0,3.4,Less,Full Cream,No
+CHAI1611,2026-05-09,Saturday,11,Mumbai,Elaichi Chai,Large,2,50,0,100.0,Wallet,Office Worker,Takeaway,Sunny,26.6,4.0,11.0,Extra,No Milk,No
+CHAI1612,2026-01-26,Monday,17,Mumbai,Lemon Tea,Large,2,50,0,100.0,Cash,Tourist,Takeaway,Cloudy,28.4,4.0,5.5,Normal,Regular,No
+CHAI1613,2026-05-26,Tuesday,15,Kota,Chocolate Chai,Medium,1,60,5,57.0,UPI,Other,Takeaway,Rainy,27.3,4.0,6.8,Extra,No Milk,No
+CHAI1614,2026-01-08,Thursday,15,Mumbai,Masala Chai,Large,1,45,5,42.75,Cash,Tourist,Takeaway,Hot,36.5,5.0,10.9,No Sugar,No Milk,Yes
+CHAI1615,2026-04-14,Tuesday,12,Udaipur,Masala Chai,Medium,2,35,10,63.0,Card,Student,Dine-in,Sunny,31.1,4.0,9.9,No Sugar,Regular,Yes
+CHAI1616,2026-06-29,Monday,18,Udaipur,Kesar Chai,Medium,2,55,0,110.0,UPI,Office Worker,Dine-in,Rainy,27.9,4.0,9.9,No Sugar,Regular,Yes
+CHAI1617,2026-02-09,Monday,21,Delhi,Adrak Chai,Medium,1,35,0,35.0,UPI,Other,Takeaway,Sunny,25.5,5.0,10.4,Normal,No Milk,Yes
+CHAI1618,2026-04-21,Tuesday,11,Pune,Elaichi Chai,Medium,1,40,0,40.0,UPI,Other,Dine-in,Cold,10.9,4.0,6.3,Normal,No Milk,No
+CHAI1619,2026-06-28,Sunday,7,Mumbai,Adrak Chai,Medium,3,35,0,105.0,UPI,Local,Dine-in,Cold,13.8,5.0,10.3,Extra,Regular,No
+CHAI1620,2026-02-05,Thursday,10,Jaipur,Chocolate Chai,Large,1,70,5,66.5,Wallet,Tourist,Takeaway,Hot,36.2,4.0,3.6,Less,Full Cream,No
+CHAI1621,2026-04-28,Tuesday,13,Indore,Elaichi Chai,Small,2,30,5,57.0,Card,Student,Delivery,Cold,17.6,3.0,10.1,Normal,,No
+CHAI1622,2026-05-31,Sunday,14,Delhi,Green Tea,Medium,3,50,0,150.0,UPI,Office Worker,Dine-in,Sunny,35.2,5.0,13.2,Less,Regular,Yes
+CHAI1623,2026-04-09,Thursday,16,Indore,Kulhad Chai,Large,1,55,0,55.0,UPI,Student,Takeaway,Rainy,24.3,3.0,4.0,Extra,No Milk,Yes
+CHAI1624,2026-06-13,Saturday,19,Indore,Kesar Chai,Small,2,45,0,90.0,UPI,Office Worker,Takeaway,Hot,41.5,2.0,12.3,No Sugar,Toned,Yes
+CHAI1625,2026-02-05,Thursday,16,Delhi,Masala Chai,Medium,1,35,0,35.0,UPI,Other,Takeaway,Cloudy,29.1,4.0,11.1,Less,Regular,No
+CHAI1626,2026-04-20,Monday,10,Mumbai,Kulhad Chai,Large,2,55,0,110.0,Cash,Tourist,Dine-in,Cold,8.5,2.0,11.1,Normal,Full Cream,No
+CHAI1627,2026-06-30,Tuesday,21,Indore,Green Tea,Small,3,40,0,120.0,UPI,Other,Dine-in,Hot,39.3,4.0,9.3,No Sugar,No Milk,No
+CHAI1628,2026-06-17,Wednesday,20,Pune,Masala Chai,Small,1,25,15,21.25,UPI,Student,Dine-in,Hot,40.8,5.0,10.9,Less,,Yes
+CHAI1629,2026-05-25,Monday,14,Kota,Masala Chai,Small,1,25,0,25.0,Cash,Other,Delivery,Hot,43.4,2.0,,Less,Full Cream,No
+CHAI1630,2026-05-03,Sunday,15,Pune,Lemon Tea,Medium,3,40,0,120.0,UPI,Student,Dine-in,Cloudy,26.7,5.0,4.6,Extra,Regular,No
+CHAI1631,2026-04-07,Tuesday,12,Mumbai,Elaichi Chai,Medium,1,40,0,40.0,UPI,Student,Delivery,Rainy,19.9,2.0,5.1,No Sugar,Toned,No
+CHAI1632,2026-05-18,Monday,9,Pune,Masala Chai,Large,1,45,0,45.0,Card,Student,Dine-in,Cold,10.8,4.0,11.0,Normal,Toned,No
+CHAI1633,2026-05-03,Sunday,14,Pune,Adrak Chai,Medium,1,35,15,29.75,UPI,Tourist,Delivery,Cloudy,27.8,5.0,5.6,Less,Full Cream,
+CHAI1634,2026-06-28,Sunday,10,Udaipur,Adrak Chai,Small,3,25,0,75.0,UPI,Office Worker,Delivery,Hot,35.7,3.0,10.9,Less,Regular,Yes
+CHAI1635,2026-06-28,Sunday,13,Delhi,Chocolate Chai,Medium,1,60,20,48.0,UPI,Student,Dine-in,Hot,35.6,2.0,10.7,Extra,No Milk,Yes
+CHAI1636,2026-04-08,Wednesday,7,Kota,Kulhad Chai,Medium,1,45,0,45.0,UPI,Local,Takeaway,Rainy,23.4,2.0,8.5,Normal,Full Cream,Yes
+CHAI1637,2026-01-08,Thursday,13,Kota,Green Tea,Medium,2,50,15,85.0,Cash,Student,Takeaway,Hot,43.4,4.0,12.6,Extra,No Milk,No
+CHAI1638,2026-02-11,Wednesday,8,Pune,Kulhad Chai,Medium,5,45,10,202.5,UPI,Student,Dine-in,Rainy,28.0,,10.9,No Sugar,Full Cream,
+CHAI1639,2026-03-10,Tuesday,20,Jaipur,Lemon Tea,Medium,3,40,0,120.0,UPI,Other,Takeaway,Rainy,19.8,4.0,8.6,Normal,No Milk,Yes
+CHAI1640,2026-04-15,Wednesday,11,Ahmedabad,Masala Chai,Medium,1,35,0,35.0,Wallet,Local,Dine-in,Rainy,26.7,5.0,4.3,No Sugar,Toned,Yes
+CHAI1641,2026-06-17,Wednesday,7,Udaipur,Masala Chai,Small,2,25,20,40.0,Cash,Student,Takeaway,Cloudy,30.5,5.0,3.8,Normal,Regular,Yes
+CHAI1642,2026-03-31,Tuesday,8,Delhi,Adrak Chai,Small,1,25,15,21.25,UPI,Tourist,Takeaway,Cold,14.4,3.0,5.9,Normal,Full Cream,No
+CHAI1643,2026-06-16,Tuesday,21,Jaipur,Green Tea,Medium,5,50,0,250.0,UPI,Student,Dine-in,Cloudy,26.5,4.0,8.6,Normal,Toned,No
+CHAI1644,2026-05-30,Saturday,17,Delhi,Masala Chai,Medium,1,35,0,35.0,Wallet,Office Worker,Takeaway,Hot,38.6,5.0,10.6,No Sugar,No Milk,No
+CHAI1645,2026-03-23,Monday,18,Pune,Lemon Tea,Small,2,30,5,57.0,UPI,Tourist,Dine-in,Rainy,27.7,4.0,12.3,Extra,Full Cream,Yes
+CHAI1646,2026-04-01,Wednesday,21,Pune,Adrak Chai,Large,2,45,10,81.0,UPI,Local,Dine-in,Cloudy,25.9,4.0,9.0,Less,Full Cream,No
+CHAI1647,2026-03-29,Sunday,7,Mumbai,Green Tea,Small,1,40,0,40.0,Cash,Office Worker,Delivery,Cold,9.7,5.0,9.4,Extra,Regular,Yes
+CHAI1648,2026-01-09,Friday,12,Delhi,Kulhad Chai,Small,1,35,5,33.25,UPI,Other,Delivery,Cold,9.3,4.0,5.6,Normal,Full Cream,Yes
+CHAI1649,2026-01-12,Monday,11,Udaipur,Adrak Chai,Medium,1,35,5,33.25,Card,Local,Takeaway,Cold,15.6,5.0,9.5,No Sugar,Toned,Yes
+CHAI1650,2026-06-01,Monday,19,Ahmedabad,Green Tea,Medium,1,50,0,50.0,UPI,Other,Takeaway,Rainy,19.0,4.0,8.1,Extra,Full Cream,No
+CHAI1021,2026-06-24,Wednesday,20,Kota,Kesar Chai,Medium,1,55,10,49.5,Wallet,Office Worker,Delivery,Cloudy,21.8,3.0,6.7,Less,Full Cream,No
+CHAI1106,2026-02-02,Monday,16,Ahmedabad,Adrak Chai,Medium,3,35,0,105.0,Cash,Tourist,Takeaway,Cloudy,25.6,2.0,5.6,Normal,No Milk,No
+CHAI1231,2026-01-02,Friday,20,Jaipur,Green Tea,Medium,4,50,0,200.0,UPI,Tourist,Takeaway,Hot,39.9,4.0,8.3,Normal,Toned,Yes
+CHAI1402,2026-06-29,Monday,20,Pune,Adrak Chai,Small,1,25,5,23.75,Wallet,Office Worker,Dine-in,Rainy,21.1,5.0,3.3,No Sugar,Toned,No
+CHAI1511,2026-03-16,Monday,20,Pune,Adrak Chai,Small,1,25,0,25.0,Cash,Student,Takeaway,Cloudy,23.4,5.0,5.8,Less,No Milk,No

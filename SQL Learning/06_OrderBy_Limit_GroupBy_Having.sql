@@ -1,0 +1,57 @@
+-- ==========================================
+-- Lecture 06 - ORDER BY, LIMIT, GROUP BY, HAVING
+-- ==========================================
+
+USE STUDENTSSS;
+
+
+-- ORDER BY
+
+SELECT *
+FROM STUDENTS
+ORDER BY CGPA ASC;
+
+SELECT *
+FROM STUDENTS
+ORDER BY CGPA DESC;
+
+
+-- Top 3 students
+
+SELECT NAME, CGPA
+FROM STUDENTS
+ORDER BY CGPA DESC
+LIMIT 3;
+
+
+-- Second highest row after sorting
+
+SELECT DISTINCT NAME, CGPA
+FROM STUDENTS
+ORDER BY CGPA DESC
+LIMIT 1 OFFSET 1;
+
+
+-- GROUP BY
+
+SELECT CITY, COUNT(*) AS TOTAL_STUDENTS
+FROM STUDENTS
+GROUP BY CITY;
+
+
+SELECT CITY, AVG(CGPA) AS AVG_CGPA
+FROM STUDENTS
+GROUP BY CITY;
+
+
+-- HAVING -> groups ko filter k
+
+SELECT CITY, AVG(CGPA) AS AVG_CGPA
+FROM STUDENTS
+GROUP BY CITY
+HAVING AVG(CGPA) > 8.5;
+
+
+-- Logical execution order:
+-- FROM -> WHERE -> GROUP BY -> HAVING
+-- -> SELECT -> ORDER BY -> LIMIT

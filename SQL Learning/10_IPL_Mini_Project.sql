@@ -1,0 +1,162 @@
+-- Lecture 10 - IPL Management Mini Project
+
+CREATE DATABASE IF NOT EXISTS IPL_DATABASE;
+USE IPL_DATABASE;
+
+
+CREATE TABLE TEAMS (
+    TEAM_ID INT PRIMARY KEY,
+    TEAM_NAME VARCHAR(50) UNIQUE,
+    CITY VARCHAR(50),
+    OWNER VARCHAR(100)
+);
+
+
+CREATE TABLE PLAYERS (
+    PLAYER_ID INT PRIMARY KEY,
+    PLAYER_NAME VARCHAR(100),
+    ROLE VARCHAR(30),
+    AGE INT,
+    COUNTRY VARCHAR(50),
+    TEAM_ID INT,
+    FOREIGN KEY (TEAM_ID) REFERENCES TEAMS(TEAM_ID)
+);
+
+
+CREATE TABLE MATCHES (
+    MATCH_ID INT PRIMARY KEY,
+    TEAM1_ID INT,
+    TEAM2_ID INT,
+    MATCH_DATE DATE,
+    VENUE VARCHAR(100),
+    WINNER_TEAM_ID INT,
+    FOREIGN KEY (TEAM1_ID) REFERENCES TEAMS(TEAM_ID),
+    FOREIGN KEY (TEAM2_ID) REFERENCES TEAMS(TEAM_ID),
+    FOREIGN KEY (WINNER_TEAM_ID) REFERENCES TEAMS(TEAM_ID)
+);
+
+
+CREATE TABLE PLAYER_PERFORMANCE (
+    PERF_ID INT PRIMARY KEY,
+    MATCH_ID INT,
+    PLAYER_ID INT,
+    RUNS INT DEFAULT 0,
+    BALLS INT DEFAULT 0,
+    WICKETS INT DEFAULT 0,
+    CATCHES INT DEFAULT 0,
+    FOREIGN KEY (MATCH_ID) REFERENCES MATCHES(MATCH_ID),
+    FOREIGN KEY (PLAYER_ID) REFERENCES PLAYERS(PLAYER_ID)
+);
+
+
+INSERT INTO TEAMS VALUES
+(1, 'MI', 'Mumbai', 'Mumbai Indians'),
+(2, 'CSK', 'Chennai', 'Chennai Super Kings'),
+(3, 'RCB', 'Bengaluru', 'Royal Challengers Bengaluru'),
+(4, 'KKR', 'Kolkata', 'Kolkata Knight Riders'),
+(5, 'RR', 'Jaipur', 'Rajasthan Royals');
+
+
+INSERT INTO PLAYERS VALUES
+(1, 'Rohit Sharma', 'Batsman', 38, 'India', 1),
+(2, 'Jasprit Bumrah', 'Bowler', 31, 'India', 1),
+(3, 'MS Dhoni', 'Wicket Keeper', 44, 'India', 2),
+(4, 'Ravindra Jadeja', 'All Rounder', 36, 'India', 2),
+(5, 'Virat Kohli', 'Batsman', 36, 'India', 3),
+(6, 'Glenn Maxwell', 'All Rounder', 36, 'Australia', 3),
+(7, 'Andre Russell', 'All Rounder', 37, 'West Indies', 4),
+(8, 'Sunil Narine', 'All Rounder', 37, 'West Indies', 4),
+(9, 'Jos Buttler', 'Wicket Keeper', 34, 'England', 5),
+(10, 'Ravichandran Ashwin', 'Bowler', 38, 'India', 5);
+
+
+INSERT INTO MATCHES VALUES
+(1, 1, 2, '2026-03-20', 'Mumbai', 1),
+(2, 3, 4, '2026-03-21', 'Bengaluru', 3),
+(3, 5, 1, '2026-03-22', 'Jaipur', 5);
+
+
+INSERT INTO PLAYER_PERFORMANCE VALUES
+(1, 1, 1, 75, 50, 0, 1),
+(2, 1, 2, 5, 4, 3, 0),
+(3, 1, 3, 55, 38, 0, 2),
+(4, 2, 5, 90, 55, 0, 1),
+(5, 2, 7, 60, 30, 1, 1),
+(6, 3, 9, 82, 48, 0, 2),
+(7, 3, 1, 45, 32, 0, 0);
+
+
+-- Orange Cap -> highest total runs
+
+SELECT
+    P.PLAYER_NAME,
+    SUM(PP.RUNS) AS TOTAL_RUNS
+FROM PLAYER_PERFORMANCE PP
+JOIN PLAYERS P
+ON PP.PLAYER_ID = P.PLAYER_ID
+GROUP BY P.PLAYER_ID, P.PLAYER_NAME
+ORDER BY TOTAL_RUNS DESC
+LIMIT 1;
+
+
+-- Purple Cap -> highest wickets
+
+SELECT
+    P.PLAYER_NAME,
+    SUM(PP.WICKETS) AS TOTAL_WICKETS
+FROM PLAYER_PERFORMANCE PP
+JOIN PLAYERS P
+ON PP.PLAYER_ID = P.PLAYER_ID
+GROUP BY P.PLAYER_ID, P.PLAYER_NAME
+ORDER BY TOTAL_WICKETS DESC
+LIMIT 1;
+
+
+-- Points table / wins
+
+SELECT
+    T.TEAM_NAME,
+    COUNT(M.MATCH_ID) AS WINS
+FROM MATCHES M
+JOIN TEAMS T
+ON M.WINNER_TEAM_ID = T.TEAM_ID
+GROUP BY T.TEAM_ID, T.TEAM_NAME
+ORDER BY WINS DESC;
+
+
+-- Highest score in a single match
+
+SELECT *
+FROM PLAYER_PERFORMANCE
+WHERE RUNS = (
+    SELECT MAX(RUNS)
+    FROM PLAYER_PERFORMANCE
+);
+
+
+-- Match details with team names
+
+SELECT
+    M.MATCH_ID,
+    T1.TEAM_NAME AS TEAM1,
+    T2.TEAM_NAME AS TEAM2,
+    TW.TEAM_NAME AS WINNER
+FROM MATCHES M
+JOIN TEAMS T1
+ON M.TEAM1_ID = T1.TEAM_ID
+JOIN TEAMS T2
+ON M.TEAM2_ID = T2.TEAM_ID
+JOIN TEAMS TW
+ON M.WINNER_TEAM_ID = TW.TEAM_ID;
+
+
+-- Team-wise players
+
+SELECT
+    T.TEAM_NAME,
+    P.PLAYER_NAME,
+    P.ROLE
+FROM TEAMS T
+JOIN PLAYERS P
+ON T.TEAM_ID = P.TEAM_ID
+ORDER BY T.TEAM_NAME;
